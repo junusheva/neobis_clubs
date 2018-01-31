@@ -315,7 +315,7 @@
         <h1 class="arrow">Наши проекты</h1>
         <div class="row">
             <div id="carouselOne" class="owl-carousel owl-theme" >
-                        <div class="col-md-3 wp4">
+                        <div class="wp4">
 
                             <div class="overlay-effect effects clearfix">
                                 <div class="img">
@@ -331,7 +331,7 @@
                             <h2><a href="liveSport.html">LiveSport</a></h2>
                             <p>LiveSport - спортивная платформа Кыргызстана.</p>
                         </div>
-                        <div class="col-md-3 wp4 delay-05s">
+                        <div class="wp4 delay-05s">
                             <div class="overlay-effect effects clearfix">
                                 <div class="img">
                                     <img src="img/mega-music-app.png" alt="Portfolio Item">
@@ -345,7 +345,7 @@
                             <h2><a href="megaMusic.html">Mega Music</a></h2>
                             <p>Мобильное приложение для пользователей сотового оператора Megacom.</p>
                         </div>
-                        <div class="col-md-3 wp4 delay-1s">
+                        <div class="wp4 delay-1s">
                             <div class="overlay-effect effects clearfix">
                                 <div class="img">
                                     <img src="img/bishkek-course-app.png" alt="Portfolio Item">
@@ -359,7 +359,7 @@
                             <h2><a href="bishkekCourse.html">Forming</a></h2>
                             <p>Образовательные курсы Бишкека.</p>
                         </div>
-                        <div class="col-md-3 wp4 delay-15s">
+                        <div class="wp4 delay-15s">
                             <div class="overlay-effect effects clearfix">
                                 <div class="img">
                                     <img src="img/toy-app.png" alt="Portfolio Item">
@@ -374,7 +374,7 @@
                             <p>Мобильная игра.</p>
                         </div>
 
-                        <div class="col-md-3 wp4">
+                        <div class="wp4">
                             <div class="overlay-effect effects clearfix">
                                 <div class="img">
                                     <img src="img/message-app.png" alt="Portfolio Item">
@@ -388,7 +388,7 @@
                             <p>Мобильное приложения для массовой отправки смс.</p>
                         </div>
 
-                        <div class="col-md-3 wp4 delay-05s">
+                        <div class="wp4 delay-05s">
                             <div class="overlay-effect effects clearfix">
                                 <div class="img">
                                     <img src="img/sort-app.png" alt="Portfolio Item">
@@ -403,7 +403,7 @@
                             <p>Мобильное приложение для клиентов и сантехников.</p>
                         </div>
 
-                        <div class="col-md-3 wp4 delay-1s">
+                        <div class="wp4 delay-1s">
                             <div class="overlay-effect effects clearfix">
                                 <div class="img">
                                     <img src="img/rocket-app.png" alt="Portfolio Item">
@@ -419,7 +419,7 @@
                         </div>
 
 
-                        <div class="col-md-3 wp4 delay-1s">
+                        <div class="wp4 delay-1s">
                             <div class="overlay-effect effects clearfix">
                                 <div class="img">
                                     <img src="./img_projects/aiymkana1.png" alt="Portfolio Item">
@@ -436,7 +436,7 @@
 
 
 
-                        <div class="col-md-3 wp4 delay-1s">
+                        <div class="wp4 delay-1s">
                             <div class="overlay-effect effects clearfix">
                                 <div class="img">
                                     <img src="./img_projects/kant1.png" alt="Portfolio Item">
@@ -535,9 +535,9 @@
     $(document).ready(function() {
         $('#carouselOne').owlCarousel({
             loop:true, //Зацикливаем слайдер
-            margin:50, //Отступ от элемента справа в 50px
+            margin: 10, //Отступ от элемента справа в 50px
             nav:true, //Отключение навигации
-            autoplay:true, //Автозапуск слайдера
+            autoplay:false, //Автозапуск слайдера
             smartSpeed:1000, //Время движения слайда
             autoplayTimeout:2000, //Время смены слайда
             responsive:{ //Адаптивность. Кол-во выводимых элементов при определенной ширине.
@@ -548,7 +548,7 @@
                     items:2
                 },
                 1000:{
-                    items:4
+                    items:3
                 }
             }
         });
