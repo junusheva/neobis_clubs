@@ -406,9 +406,9 @@ h2 {
 }
 
 .light-box:hover, .light-box:focus {
-    -webkit-box-shadow: 0px 3px 0px 0px rgb(160, 24, 20);
-    -moz-box-shadow: 0px 3px 0px 0px rgb(160, 24, 20);
-    box-shadow: 0px 3px 0px 0px rgb(160, 24, 20);
+    -webkit-box-shadow: 0px 3px 0px 0px #33b481ad;
+    -moz-box-shadow: 0px 3px 0px 0px #33b481ad;
+    box-shadow: 0px 3px 0px 0px #33b481ad;
 }
 
 .box-hover {
@@ -440,7 +440,7 @@ h2 {
 Navigation
 ========================================================================== */
 nav {
-    background-color: #191919;
+    background-color: #30b482;
     margin-top: -1px;
 }
 
@@ -466,7 +466,7 @@ nav ul li:last-child {
 }
 
 nav ul li a {
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255, 255, 255, 0.7);
     display: block;
     padding: 20px;
     transition: all 0.5s ease;
@@ -501,7 +501,7 @@ nav ul li a:hover, nav ul li a:focus {
     -o-border-radius: 1px;
     height: 5px;
     width: 35px;
-    background: #353535;
+    background: #fff;
     position: absolute;
     display: block;
     content: '';
@@ -561,12 +561,12 @@ nav ul li a:hover, nav ul li a:focus {
 Hero
 ========================================================================== */
 .hero {
-    background: url('../img/neobis.png') no-repeat center center;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    -o-background-size: contain;
+    background: url('../img/neobisLog.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-color: #191919;
-    background-size: contain;
+    background-size: cover;
     padding: 65px 0 300px 0;
     height: auto;
 }
@@ -646,7 +646,7 @@ Features
     width: 175px;
     line-height: 175px;
     max-width: 100%;
-    background: #9c0808f7;
+    background: #5ac099;
     border-radius: 50%;
     -o-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -719,7 +719,7 @@ Swag
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     -o-border-radius: 50%;
-    background: rgba(160, 24, 20, 0.72);
+    background: #33b481ad;
     display: inline-block;
     margin: 10px auto 20px;
     color: #fff;
@@ -730,7 +730,7 @@ Swag
 
 .down-arrow-btn:hover, .down-arrow-btn:focus {
     color: #fff;
-    background: rgb(160, 24, 20);
+    background: #33b481ad;
 }
 
 /* ==========================================================================
@@ -771,7 +771,7 @@ Portfolio
     display: block;
     position: absolute;
     z-index: 20;
-    background: rgba(160, 24, 20, 0.84);
+    background: #5ac099;
     overflow: hidden;
     transition: all 0.5s;
     -webkit-transition: all 0.5s;
@@ -837,17 +837,17 @@ a.expand {
     opacity: 1;
 }
 
-.img img {
-    width: -webkit-calc(100% + 40px) !important;
-    width: calc(100% + 40px) !important;
-    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
-    transition: opacity 0.35s, transform 0.35s;
-    -moz-transition: opacity 0.35s, -moz-transform 0.35s;
-    -o-transition: opacity 0.35s, -o-transform 0.35s;
-    -webkit-transform: translate3d(-40px, 0, 0);
-    transform: translate3d(-40px, 0, 0);
-    -ms-transform: translate3d(-40px, 0, 0);
-}
+/*.img img {*/
+    /*width: -webkit-calc(100% + 40px) !important;*/
+    /*width: calc(100% + 40px) !important;*/
+    /*-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;*/
+    /*transition: opacity 0.35s, transform 0.35s;*/
+    /*-moz-transition: opacity 0.35s, -moz-transform 0.35s;*/
+    /*-o-transition: opacity 0.35s, -o-transform 0.35s;*/
+    /*-webkit-transform: translate3d(-40px, 0, 0);*/
+    /*transform: translate3d(-40px, 0, 0);*/
+    /*-ms-transform: translate3d(-40px, 0, 0);*/
+/*}*/
 
 .img:hover img {
     -webkit-transform: translate3d(0, 0, 0);
@@ -979,7 +979,7 @@ ul.social-buttons li:last-child {
 }
 
 .social-btn:hover, .social-btn:focus {
-    background: rgb(160, 24, 20);
+    background: #33b481ad;
     color: #fff;
 }
 
@@ -997,7 +997,7 @@ Contact
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     -o-border-radius: 50%;
-    background: rgba(160, 24, 20, 0.72);
+    background: #33b481ad;
     display: block;
     margin: 0 auto;
     color: #fff;
@@ -1014,7 +1014,7 @@ Contact
 
 .up-btn:hover, up-btn:focus {
     color: #fff;
-    background: rgb(160, 24, 20);
+    background: #33b481ad;
 }
 
 .contact-details {
@@ -1027,7 +1027,7 @@ Contact
 
 .contact-details h2 span {
     display: block;
-    color: rgb(160, 24, 20);
+    color: #33b481ad;
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 14px;
