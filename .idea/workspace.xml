@@ -1,7 +1,225 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6c6563d-f542-4bfc-8751-0602cfa33161" name="Default" comment="" />
+    <list default="true" id="e6c6563d-f542-4bfc-8751-0602cfa33161" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Logo/Screen Shot 2018-02-27 at 13.31.59.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Logo/Screen Shot 2018-02-27 at 15.05.30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Logo/fb_background_g.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Logo/fb_icon_w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Logo/logo_just.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Logo/neobis_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Logo/neobis_logo_brandbook.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Logo/photo_2018-02-27_15-57-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Logo/photo_2018-02-27_15-57-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/assets/halcyon-splash.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/backendIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/bishkek-course-app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/designIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/frontendIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/h1-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/hero-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/hero-bg123.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/iphone-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/keyboard-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/l1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/mega-music-app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/message-app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/neobis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/neobisLog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/news-app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/plants-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/portfolio-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/portfolio-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/portfolio-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/rocket-app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/sort-app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/team-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/team-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/team-03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img/toy-app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/aiymkana1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/aiymkana2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/aiymkana3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/aiymkana4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/appStore.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/catchIt1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/catchIt2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/catchIt3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/forming1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/forming2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/forming3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/forming4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/forming5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/forming6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/googlePlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/image30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/image31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/kant1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/kant2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/kant3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/kant4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/liveSprort1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/liveSprort2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/liveSprort3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/liveSprort4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/liveSprort5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/luckyStrike1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/luckyStrike2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/luckyStrike3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/luckyStrike4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/megamusic1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/megamusic2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/megamusic3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/ms82-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/ms82-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/ms82-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/sortD1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/sortD2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/sortD3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/sortD4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/sortD5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/img_projects/sortD6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/aiymkana/Screenshot_20171229-134329.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/aiymkana/Simulator Screen Shot - iPhone 6s - 2017-12-29 at 12.48.49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/aiymkana/Simulator Screen Shot - iPhone 6s - 2017-12-29 at 12.49.09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/aiymkana/aiymkana1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/aiymkana/aiymkana2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/aiymkana/aiymkana3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/aiymkana/aiymkana4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/catchIt/catchIt1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/catchIt/catchIt2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/catchIt/catchIt3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/forming/f1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/forming/f2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/forming/f3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/forming/f4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/forming/f5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/hackathonApp/hackathon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/hackathonApp/icon_2 (2).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/jardamBerem/S80412-141213.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/jardamBerem/S80412-141222.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/jardamBerem/S80412-141229.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/jardamBerem/S80412-141239.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/jardamBerem/S80412-141243.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/jardamBerem/S80412-141245.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/kant/kant1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/kant/kant2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/kant/kant3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/kant/kant4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/liveSport/liveSprort1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/liveSport/liveSprort2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/liveSport/liveSprort3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/liveSport/liveSprort4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/liveSport/liveSprort5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/luckyStrike/luckyStrike1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/luckyStrike/luckyStrike2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/luckyStrike/luckyStrike3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/luckyStrike/luckyStrike4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/megamusic/megamusic1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/megamusic/megamusic2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/megamusic/megamusic3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ms82/ms82-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ms82/ms82-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ms82/ms82-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/poputka/ 2018-04-12 в 20.33.46.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/poputka/2018-04-12 в 20.32.19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/poputka/2018-04-12 в 20.32.49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/poputka/2018-04-12 в 20.33.32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/sortD/sortD1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/sortD/sortD2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/sortD/sortD3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/sortD/sortD4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/sortD/sortD5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/sortD/sortD6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171128-142523[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171128-142548[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171128-142555[2].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171128-142559[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171128-142606[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171212-154653[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171212-154744[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171212-154802[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171212-154807[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171212-154907[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171212-154947[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171212-155005[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171212-155013[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/Screenshot_20171212-155018[1].png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-174639.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-174652.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-174700.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-174712.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-174834.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-174837.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-175005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-175024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-175028.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-175314.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-175335.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-175803.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/Screenshot_20180117-175858.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/voxball/Simulator Screen Shot - iPhone 6 Plus - 2018-04-12 at 14.18.49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/voxball/Simulator Screen Shot - iPhone 6 Plus - 2018-04-12 at 14.19.39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/voxball/Simulator Screen Shot - iPhone 6 Plus - 2018-04-12 at 14.19.52.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/voxball/Simulator Screen Shot - iPhone 6 Plus - 2018-04-12 at 14.20.28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/voxball/Simulator Screen Shot - iPhone 6 Plus - 2018-04-12 at 14.20.33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/voxball/Simulator Screen Shot - iPhone 6 Plus - 2018-04-12 at 14.20.50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/voxball/Simulator Screen Shot - iPhone 6 Plus - 2018-04-12 at 14.21.29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/voxball/Simulator Screen Shot - iPhone 6 Plus - 2018-04-12 at 14.22.01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/voxball/Simulator Screen Shot - iPhone 6 Plus - 2018-04-12 at 14.23.27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/voxball/Simulator Screen Shot - iPhone 6 Plus - 2018-04-12 at 14.23.37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/.idea/madClubWebSite-master.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/config.codekit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/css/flexslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/css/flickity.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/css/projects.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/css/queries.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/index copy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/js/flickity.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/js/jquery.flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/js/jquery.smooth-scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/js/min/scripts-ck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/js/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/js/overlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/js/waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/js/ firebase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/owl.carousel/owl.carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/owl.carousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/owl.carousel/owl.theme.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/aiymkana/aiymkana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/catchIt/catchIt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/forming/forming.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/hackathonApp/hachathonApp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/jardamBerem/jardamBerem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/kant/kant.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/liveSport/liveSport.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/luckyStrike/luckyStrike.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/megamusic/megaMusic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ms82/ms82.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/poputka/poputka.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/sortD/sortD.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/ssc_auca/auca_ssc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/toyota/toyota.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-english/projects/voxball/voxball.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/web/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,11 +232,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="165" column="32" lean-forward="false" selection-start-line="165" selection-start-column="32" selection-end-line="165" selection-end-column="32" />
+            <state relative-caret-position="180">
+              <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#h4#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -32,17 +250,26 @@
                 <element signature="n#style#0;n#p#0;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#0;n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#17667#17672#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aiymkana.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/aiymkana.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-english/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web-english/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -51,11 +278,9 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3994">
+            <state relative-caret-position="9585">
               <caret line="639" column="19" lean-forward="false" selection-start-line="639" selection-start-column="15" selection-end-line="639" selection-end-column="19" />
-              <folding>
-                <marker date="1518327929905" expanded="true" signature="15202:15230" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,6 +306,7 @@
         <option value="$PROJECT_DIR$/web/aiymkana.html" />
         <option value="$PROJECT_DIR$/web/css/styles.css" />
         <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web-english/.gitignore" />
       </list>
     </option>
   </component>
@@ -90,7 +316,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="820" />
   </component>
@@ -110,6 +336,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,20 +352,12 @@
             <path>
               <item name="neobis-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="neobis-website" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neobis-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neobis-website" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="web-english" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -148,6 +367,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,11 +399,12 @@
       <workItem from="1516794663241" duration="7432000" />
       <workItem from="1517194813497" duration="5162000" />
       <workItem from="1517881587724" duration="5392000" />
+      <workItem from="1527753885873" duration="348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17986000" />
+    <option name="totallyTimeSpent" value="18334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -187,12 +413,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15010571" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -230,26 +456,15 @@
             <element signature="n#style#0;n#p#0;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#17667#17672#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/aiymkana.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3495">
-          <caret line="233" column="20" lean-forward="false" selection-start-line="233" selection-start-column="20" selection-end-line="233" selection-end-column="20" />
-          <folding>
-            <marker date="1518327929905" expanded="true" signature="15202:15230" ph="{...}" />
-          </folding>
+        <state relative-caret-position="9585">
+          <caret line="639" column="19" lean-forward="false" selection-start-line="639" selection-start-column="15" selection-end-line="639" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -270,7 +485,36 @@
             <element signature="n#style#0;n#p#0;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#17667#17672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/aiymkana.html" />
+    <entry file="file://$PROJECT_DIR$/web/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3495">
+          <caret line="233" column="20" lean-forward="false" selection-start-line="233" selection-start-column="20" selection-end-line="233" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h4#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#3;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#3;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -286,9 +530,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3465">
           <caret line="231" column="4" lean-forward="false" selection-start-line="231" selection-start-column="4" selection-end-line="231" selection-end-column="4" />
-          <folding>
-            <marker date="1518327929905" expanded="true" signature="15202:15230" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -328,28 +570,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/aiymkana.html">
+    <entry file="file://$PROJECT_DIR$/web/aiymkana.html" />
+    <entry file="file://$PROJECT_DIR$/web/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        <state relative-caret-position="9585">
+          <caret line="639" column="19" lean-forward="false" selection-start-line="639" selection-start-column="15" selection-end-line="639" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/web-english/js/min/scripts-ck.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3994">
-          <caret line="639" column="19" lean-forward="false" selection-start-line="639" selection-start-column="15" selection-end-line="639" selection-end-column="19" />
-          <folding>
-            <marker date="1518327929905" expanded="true" signature="15202:15230" ph="{...}" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="165" column="32" lean-forward="false" selection-start-line="165" selection-start-column="32" selection-end-line="165" selection-end-column="32" />
+        <state relative-caret-position="180">
+          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -363,8 +604,31 @@
             <element signature="n#style#0;n#p#0;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#17667#17672#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-english/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-english/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
