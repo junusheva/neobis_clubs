@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6c6563d-f542-4bfc-8751-0602cfa33161" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/projects/jardamBerem/jardamBerem.html" afterPath="$PROJECT_DIR$/web/projects/jardamBerem/jardamBerem.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/projects/kant/kant.html" afterPath="$PROJECT_DIR$/web/projects/kant/kant.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -219,11 +219,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jardamBerem.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/projects/jardamBerem/jardamBerem.html">
+      <file leaf-file-name="kant.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/projects/kant/kant.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state relative-caret-position="433">
+              <caret line="20" column="382" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="382" />
               <folding />
             </state>
           </provider>
@@ -262,6 +262,7 @@
         <option value="$PROJECT_DIR$/web-english/projects/hackathonApp/hachathonApp.html" />
         <option value="$PROJECT_DIR$/web/projects/hackathonApp/hachathonApp.html" />
         <option value="$PROJECT_DIR$/web/projects/jardamBerem/jardamBerem.html" />
+        <option value="$PROJECT_DIR$/web/projects/kant/kant.html" />
       </list>
     </option>
   </component>
@@ -314,7 +315,7 @@
               <item name="neobis-website" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="jardamBerem" type="462c0819:PsiDirectoryNode" />
+              <item name="kant" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neobis-website" type="b2602c69:ProjectViewProjectNode" />
@@ -392,7 +393,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23829000" />
+    <option name="totallyTimeSpent" value="23963000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="718" height="900" extended-state="0" />
@@ -427,14 +428,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web-english/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5115">
-          <caret line="341" column="84" lean-forward="false" selection-start-line="341" selection-start-column="84" selection-end-line="341" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2410,6 +2403,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/projects/jardamBerem/jardamBerem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web-english/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -2418,10 +2419,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/projects/jardamBerem/jardamBerem.html">
+    <entry file="file://$PROJECT_DIR$/web/projects/kant/kant.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="433">
+          <caret line="20" column="382" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="382" />
           <folding />
         </state>
       </provider>
