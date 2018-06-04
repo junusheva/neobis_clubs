@@ -12,6 +12,26 @@
     <link href="css/styles.css" rel="stylesheet">
     <link href="css/queries.css" rel="stylesheet">
     <link href="css/animate.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+    <!--google fonts-->
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <!--Real time database begin-->
+    <script src="https://www.gstatic.com/firebasejs/4.7.0/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyD9B1Hg9kdOIPLl7xsHHQx8m8fh7XOFpns",
+            authDomain: "neobis-b497b.firebaseapp.com",
+            databaseURL: "https://neobis-b497b.firebaseio.com",
+            projectId: "neobis-b497b",
+            storageBucket: "neobis-b497b.appspot.com",
+            messagingSenderId: "782395264615"
+        };
+        firebase.initializeApp(config);
+    </script>
+    <!--end-->
     <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet"><!--google fonts-->
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -35,6 +55,11 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+
+    <!--OWL CAROUSEL SLIDER-->
+    <link rel="stylesheet" href="./owl.carousel/owl.carousel.min.css"/>
+    <link rel="stylesheet" href="./owl.carousel/owl.theme.default.css"/>
 </head>
 <body id="top">
 <header id="home">
@@ -64,6 +89,9 @@
                 <div class="col-md-12 text-right navicon">
                     <a id="nav-toggle" class="nav_slide_button" href="#"><span></span></a>
                 </div>
+                <div class="col-md-12 text-right navicon">
+                    <a href="../web-english/index.html" class="languageChangeLink">ENG</a>
+                </div>
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center inner">
@@ -81,25 +109,75 @@
         </div>
     </section>
 </header>
-<section class="intro text-center section-padding" id="intro">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2 wp1">
-                <h1 class="arrow">О нас</h1>
-                <p>Позвольте предложить Вам и Вашему бизнесу создать мобильное приложение для смартфонов (и iOS, и
-                    Android) по очень выгодной цене менее чем за один месяц. Звучит странно? Будет ли это еще и
-                    качественно? Чтобы ответить на эти вопросы, позвольте рассказать немного о нас.</p>
-                <p>Neobis, IT стартап из АУЦА, ставит своей целью обучение студентов-программистов на практике. Наша
-                    бизнес-модель проста - мы предлагаем клиентам создать мобильные приложения по минимальной цене, а
-                    лучшие студенты получают доход и полезную практику, разрабатывая приложения под контролем опытных
-                    менторов. Почему приложения не бесплатны, возможно, спросите Вы? Все просто: с одной стороны, мы
-                    хотим быть уверены, что разрабатываемый продукт, действительно, необходим бизнесу и будет
-                    использоваться после внедрения. С другой стороны, студенты и менторы относятся к работе
-                    ответственнее, это приучает их к дисциплине и рабочей этике в целом.</p>
-            </div>
-        </div>
+
+<h1 class="arrow intro text-center section-padding" id="intro">О нас</h1>
+<section class="section group normal-screen" id="e39">
+
+    <div class="col span_1_of_8 small-hide">
+
     </div>
+
+    <div class="col span_2_of_8 padding-all-30px small-grow">
+
+        <h4 style="text-align: center;">НАША ИСТОРИЯ</h4>
+        <p class="font-size-17-5px" style="text-align: center;">стартап Neobis был основан в 2016 году двумя девушками, студентками-программистами АУЦА, Санирой и Бегимай.</p>
+    </div>
+
+    <div class="col span_2_of_8 padding-all-28px accent-large-underline  small-grow">
+
+        <h4 style="text-align: center;">НАША ИДЕОЛОГИЯ</h4>
+        <p class="font-size-17-5px" style="text-align: center;"><span>улучшение качества IT инфраструктуры в Кыргызстане через повышение профессионализма и подготовленности выпускников-программистов</span>
+        </p>
+    </div>
+
+    <div class="col span_2_of_8 padding-all-30px small-grow">
+
+        <h4 style="text-align: center;">НАША МИССИЯ</h4>
+        <p class="font-size-17-5px" style="text-align: center;">
+            безвозмездное менторство студентов-программистов по улучшению практических навыков, последующее трудоустройство программистов клуба в крупные IT компании Кыргызстана</p>
+    </div>
+
+    <div class="col span_1_of_8 small-hide">
+
+    </div>
+
+
 </section>
+<section class="section group normal-screen" id="e42">
+
+    <div class="col span_1_of_8 small-hide">
+
+    </div>
+
+    <div class="col span_2_of_8 padding-all-30px accent-underline small-grow">
+
+        <h4 style="text-align: center;">МЫ ВЕРИМ</h4>
+        <p class="font-size-17-5px" style="text-align: center;">
+            в обучение через разработку коммерческих проектов. Это эффективно для понимания теоретической базы, преподаваемой в вузах
+        </p>
+    </div>
+
+    <div class="col span_2_of_8 padding-all-30px accent-underline small-grow">
+
+        <h4 style="text-align: center;">МЫ ПОМОГАЕМ</h4>
+        <p class="font-size-17-5px" style="text-align: center;">бизнесу за короткие сроки и маленький бюджет получить ПО
+            для улучшения своего сервиса</p>
+    </div>
+
+    <div class="col span_2_of_8 padding-all-30px accent-underline small-grow">
+
+        <h4 style="text-align: center;">МЫ РЕШАЕМ</h4>
+        <p class="font-size-17-5px" style="text-align: center;">низкий уровень подготовленности стажера-программиста.
+            (проблему не только одного человека, а целой страны)</p>
+    </div>
+
+    <div class="col span_1_of_8 small-hide">
+
+    </div>
+
+
+</section>
+
 <section class="features text-center section-padding" id="features">
     <div class="container">
         <div class="row">
@@ -108,14 +186,14 @@
 
                 <div class="features-wrapper">
 
-                    <div class=" wp2">
+                    <div class="wp2">
                         <div class="icon">
                             <i class="fa fa-apple shadow"></i>
                         </div>
                         <h2>iOS</h2>
                     </div>
 
-                    <div class=" wp2 delay-05s">
+                    <div class="wp2 delay-05s">
                         <div class="icon">
                             <i class="fa fa-android shadow"></i>
                         </div>
@@ -125,31 +203,25 @@
                     <div class=" wp2 delay-1s">
                         <div class="icon">
                             <i class="fa fa-laptop shadow" aria-hidden="true"></i>
-                            <!--<i class="fa fa-heart shadow"></i>-->
                         </div>
-                        <!--Написать что-то другое надо-->
                         <h2>Back-end</h2>
                     </div>
 
-                    <div class=" wp2 delay-15s">
+                    <div class="wp2 delay-15s">
                         <div class="icon">
                             <i class="fa fa-code shadow" aria-hidden="true"></i>
-                            <!--<i class="fa fa-heart shadow"></i>-->
                         </div>
-                        <!--Написать что-то другое надо-->
                         <h2>Front-end</h2>
                     </div>
 
-                    <div class=" wp2 delay-2s">
+                    <div class="wp2 delay-2s">
                         <div class="icon">
                             <i class="fa fa-pencil-square shadow" aria-hidden="true"></i>
-                            <!--<i class="fa fa-heart shadow"></i>-->
                         </div>
-                        <!--Написать что-то другое надо-->
                         <h2>UX/UI Design</h2>
                     </div>
 
-                    <div class="clearfix"></div>
+                    <!--<div class="clearfix"></div>-->
                 </div>
 
             </div>
@@ -157,205 +229,207 @@
     </div>
 </section>
 
+
+
+
+<!--             SLIDER          -->
 <section class="portfolio text-center section-padding" id="portfolio">
     <div class="container">
         <h1 class="arrow">Наши проекты</h1>
         <div class="row">
-            <div id="portfolioSlider">
-                <ul class="slides">
-                    <li>
-                        <!--<div class="col-md-3 wp4">-->
+            <div id="carouselOne" class="owl-carousel owl-theme">
 
-                            <div class="col-md-3 wp4 delay-05s">
-                                <div class="overlay-effect effects clearfix">
-                                    <div class="img">
-                                        <img src="projects/aiymkana/aiymkana1.png" alt="Portfolio Item">
-                                        <div class="overlay">
-                                            <a href="projects/aiymkana/aiymkana.html" class="expand"><i
-                                                    class="fa fa-search"></i><br>Узнать больше</a>
-                                            <a class="close-overlay hidden">x</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <h2><a href="projects/aiymkana/aiymkana.html">Айымкана</a></h2>
-                                <p>Показ информации о видах насилия. </p>
-                            </div>
+                <!--<div class="col-md-3 wp4">-->
 
-                        <!--</div>-->
-                        <div class="col-md-3 wp4 delay-1s">
-                            <div class="overlay-effect effects clearfix">
-                                <div class="img">
-                                    <img src="projects/kant/kant1.png" alt="Portfolio Item">
-                                    <div class="overlay">
-                                        <a href="projects/kant/kant.html" class="expand"><i
-                                                class="fa fa-search"></i><br>Узнать больше</a>
-                                        <a class="close-overlay hidden">x</a>
-                                    </div>
-                                </div>
+                <div class="wp4 delay-05s">
+                    <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                            <img src="projects/aiymkana/aiymkana1.png" alt="Portfolio Item">
+                            <div class="overlay">
+                                <a href="projects/aiymkana/aiymkana.html" class="expand"><i
+                                        class="fa fa-search"></i><br>Узнать больше</a>
+                                <a class="close-overlay hidden">x</a>
                             </div>
-                            <h2><a href="projects/kant/kant.html">Кант Кызылча</a></h2>
-                            <p>Мобильное приложение для фермеров Кыргызстана, выращивающих сахарную свеклу.</p>
                         </div>
-                        <div class="col-md-3 wp4 delay-15s">
-                            <div class="overlay-effect effects clearfix">
-                                <div class="img">
-                                    <img src="img/bishkek-course-app.png" alt="Portfolio Item">
-                                    <div class="overlay">
-                                        <a href="projects/forming/forming.html" class="expand"><i
-                                                class="fa fa-search"></i><br>Узнать больше</a>
-                                        <a class="close-overlay hidden">x</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <h2><a href="projects/forming/forming.html">Forming</a></h2>
-                            <p>Образовательные курсы Бишкека.</p>
-                        </div>
-                        <div class="col-md-3 wp4 delay-2s">
-                            <div class="overlay-effect effects clearfix">
-                                <div class="img">
-                                    <img src="img/toy-app.png" alt="Portfolio Item">
-                                    <div class="overlay">
-                                        <a href="projects/catchIt/catchIt.html" class="expand"><i
-                                                class="fa fa-search"></i><br>Узнать больше</a>
-                                        <a class="close-overlay hidden">x</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <h2><a href="projects/catchIt/catchIt.html">Catch it</a></h2>
-                            <p>Мобильная игра.</p>
-                        </div>
-                    </li>
+                    </div>
+                    <h2><a href="projects/aiymkana/aiymkana.html">Айымкана</a></h2>
+                    <p>Показ информации о видах насилия. </p>
+                </div>
 
-                    <li>
-                        <div class="col-md-3 wp4">
-                            <div class="overlay-effect effects clearfix">
-                                <div class="img">
-                                    <img src="projects/hackathonApp/hackathon.jpg" alt="Portfolio Item">
-                                    <div class="overlay">
-                                        <a href="projects/hackathonApp/hachathonApp.html" class="expand"><i
-                                                class="fa fa-search"></i><br>Узнать больше</a>
-                                        <a class="close-overlay hidden">x</a>
-                                    </div>
-                                </div>
+                <!--</div>-->
+                <div class=" wp4 delay-1s">
+                    <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                            <img src="projects/kant/kant1.png" alt="Portfolio Item">
+                            <div class="overlay">
+                                <a href="projects/kant/kant.html" class="expand"><i
+                                        class="fa fa-search"></i><br>Узнать больше</a>
+                                <a class="close-overlay hidden">x</a>
                             </div>
-                            <h2><a href="projects/hackathonApp/hachathonApp.html">Hackathon App</a></h2>
-                            <p>Мобильное приложение для хакатона в рамках HackFest "Поколение Z:благополучие детей".</p>
                         </div>
+                    </div>
+                    <h2><a href="projects/kant/kant.html">Кант Кызылча</a></h2>
+                    <p>Приложение для фермеров Кыргызстана.</p>
+                </div>
+                <div class="wp4 delay-15s">
+                    <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                            <img src="projects/forming/f4.jpg" alt="Portfolio Item">
+                            <div class="overlay">
+                                <a href="projects/forming/forming.html" class="expand"><i
+                                        class="fa fa-search"></i><br>Узнать больше</a>
+                                <a class="close-overlay hidden">x</a>
+                            </div>
+                        </div>
+                    </div>
+                    <h2><a href="projects/forming/forming.html">Forming</a></h2>
+                    <p>Образовательные курсы Бишкека.</p>
+                </div>
+                <div class="wp4 delay-2s">
+                    <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                            <img src="img/toy-app.png" alt="Portfolio Item">
+                            <div class="overlay">
+                                <a href="projects/catchIt/catchIt.html" class="expand"><i
+                                        class="fa fa-search"></i><br>Узнать больше</a>
+                                <a class="close-overlay hidden">x</a>
+                            </div>
+                        </div>
+                    </div>
+                    <h2><a href="projects/catchIt/catchIt.html">Catch it</a></h2>
+                    <p>Мобильная игра.</p>
+                </div>
 
-                        <div class="col-md-3 wp4 delay-05s">
-                            <div class="overlay-effect effects clearfix">
-                                <div class="img">
-                                    <img src="projects/jardamBerem/S80412-141213.jpg" alt="Portfolio Item">
-                                    <div class="overlay">
-                                        <a href="projects/jardamBerem/jardamBerem.html" class="expand"><i
-                                                class="fa fa-search"></i><br>Узнать больше</a>
-                                        <a class="close-overlay hidden">x</a>
-                                    </div>
-                                </div>
+                <div class=" wp4">
+                    <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                            <img src="projects/hackathonApp/hackathon.jpg" alt="Portfolio Item">
+                            <div class="overlay">
+                                <a href="projects/hackathonApp/hachathonApp.html" class="expand"><i
+                                        class="fa fa-search"></i><br>Узнать больше</a>
+                                <a class="close-overlay hidden">x</a>
                             </div>
-                            <h2><a href="projects/jardamBerem/jardamBerem.html">Жардам берем</a></h2>
-                            <p>Мобильное приложение для сбора денег и различных вещей людям в трудной ситуации</p>
                         </div>
+                    </div>
+                    <h2><a href="projects/hackathonApp/hachathonApp.html">Hackathon App</a></h2>
+                    <p>Приложение для хакатона в рамках HackFest</p>
+                </div>
 
-                        <div class="col-md-3 wp4 delay-1s">
-                            <div class="overlay-effect effects clearfix">
-                                <div class="img">
-                                    <img src="projects/poputka/2018-04-12%20в%2020.32.19.png" alt="Portfolio Item">
-                                    <div class="overlay">
-                                        <a href="projects/poputka/poputka.html" class="expand"><i
-                                                class="fa fa-search"></i><br>Узнать больше</a>
-                                        <a class="close-overlay hidden">x</a>
-                                    </div>
-                                </div>
+                <div class=" wp4 delay-05s">
+                    <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                            <img src="projects/jardamBerem/S80412-141213.jpg" alt="Portfolio Item">
+                            <div class="overlay">
+                                <a href="projects/jardamBerem/jardamBerem.html" class="expand"><i
+                                        class="fa fa-search"></i><br>Узнать больше</a>
+                                <a class="close-overlay hidden">x</a>
                             </div>
-                            <h2><a href="projects/poputka/poputka.html">Попутка KG</a></h2>
-                            <p>Приложение для нахождения попуток.</p>
                         </div>
+                    </div>
+                    <h2><a href="projects/jardamBerem/jardamBerem.html">Жардам берем</a></h2>
+                    <p>Мобильное приложение для сбора средств людям в трудной ситуации</p>
+                </div>
+
+                <div class=" wp4 delay-1s">
+                    <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                            <img src="projects/poputka/2018-04-12%20в%2020.32.19.png" alt="Portfolio Item">
+                            <div class="overlay">
+                                <a href="projects/poputka/poputka.html" class="expand"><i
+                                        class="fa fa-search"></i><br>Узнать больше</a>
+                                <a class="close-overlay hidden">x</a>
+                            </div>
+                        </div>
+                    </div>
+                    <h2><a href="projects/poputka/poputka.html">Попутка KG</a></h2>
+                    <p>Приложение для нахождения попуток.</p>
+                </div>
 
 
-                        <div class="col-md-3 wp4 delay-1s">
-                            <div class="overlay-effect effects clearfix">
-                                <div class="img">
-                                    <img src="projects/ssc_auca/Screenshot_20171212-154653%5B1%5D.png" alt="Portfolio Item">
-                                    <div class="overlay">
-                                        <a href="projects/ssc_auca/auca_ssc.html" class="expand"><i
-                                                class="fa fa-search"></i><br>Узнать больше</a>
-                                        <a class="close-overlay hidden">x</a>
-                                    </div>
-                                </div>
+                <div class="wp4 delay-1s">
+                    <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                            <img src="projects/ssc_auca/Screenshot_20171212-154653%5B1%5D.png" alt="Portfolio Item">
+                            <div class="overlay">
+                                <a href="projects/ssc_auca/auca_ssc.html" class="expand"><i
+                                        class="fa fa-search"></i><br>Узнать больше</a>
+                                <a class="close-overlay hidden">x</a>
                             </div>
-                            <h2><a href="projects/ssc_auca/auca_ssc.html">AUCA SSC</a></h2>
-                            <p>Приложение для упрощения жизни студентов АУЦА.</p>
                         </div>
+                    </div>
+                    <h2><a href="projects/ssc_auca/auca_ssc.html">AUCA SSC</a></h2>
+                    <p>Приложение для упрощения жизни студентов АУЦА.</p>
+                </div>
 
-                    </li>
 
-                    <li>
-                        <div class="col-md-3 wp4">
-                            <div class="overlay-effect effects clearfix">
-                                <div class="img">
-                                    <img src="img/message-app.png" alt="Portfolio Item">
-                                    <div class="overlay">
-                                        <a href="projects/ms82/ms82.html" class="expand"><i
-                                                class="fa fa-search"></i><br>Узнать больше</a>
-                                        <a class="close-overlay hidden">x</a>
-                                    </div>
-                                </div>
+                <div class=" wp4">
+                    <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                            <img src="img/message-app.png" alt="Portfolio Item">
+                            <div class="overlay">
+                                <a href="projects/ms82/ms82.html" class="expand"><i
+                                        class="fa fa-search"></i><br>Узнать больше</a>
+                                <a class="close-overlay hidden">x</a>
                             </div>
-                            <h2><a href="projects/ms82/ms82.html">MS82</a></h2>
-                            <p>Мобильное приложения для массовой отправки смс.</p>
                         </div>
+                    </div>
+                    <h2><a href="projects/ms82/ms82.html">MS82</a></h2>
+                    <p>Мобильное приложения для массовой отправки смс.</p>
+                </div>
 
-                        <div class="col-md-3 wp4 delay-05s">
-                            <div class="overlay-effect effects clearfix">
-                                <div class="img">
-                                    <img src="img/sort-app.png" alt="Portfolio Item">
-                                    <div class="overlay">
-                                        <a href="projects/sortD/sortD.html" class="expand"><i
-                                                class="fa fa-search"></i><br>Узнать больше</a>
-                                        <a class="close-overlay hidden">x</a>
-                                    </div>
-                                </div>
+                <div class="wp4 delay-05s">
+                    <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                            <img src="img/sort-app.png" alt="Portfolio Item">
+                            <div class="overlay">
+                                <a href="projects/sortD/sortD.html" class="expand"><i
+                                        class="fa fa-search"></i><br>Узнать больше</a>
+                                <a class="close-overlay hidden">x</a>
                             </div>
-                            <h2><a href="projects/sortD/sortD.html">Sortd</a></h2>
-                            <p>Мобильное приложение для клиентов и сантехников.</p>
                         </div>
+                    </div>
+                    <h2><a href="projects/sortD/sortD.html">Sortd</a></h2>
+                    <p>Мобильное приложение для клиентов и сантехников.</p>
+                </div>
 
-                        <div class="col-md-3 wp4 delay-1s">
-                            <div class="overlay-effect effects clearfix">
-                                <div class="img">
-                                    <img src="img/rocket-app.png" alt="Portfolio Item">
-                                    <div class="overlay">
-                                        <a href="projects/luckyStrike/luckyStrike.html" class="expand"><i
-                                                class="fa fa-search"></i><br>Узнать больше</a>
-                                        <a class="close-overlay hidden">x</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <h2><a href="projects/luckyStrike/luckyStrike.html">My Lucky Strike</a></h2>
-                            <p>Мобильная игра.</p>
-                        </div>
-                        <div class="col-md-3 wp4 delay-1s">
-                        <div class="overlay-effect effects clearfix">
-                            <div class="img">
-                                <img src="img/news-app.png" alt="Portfolio Item">
-                                <div class="overlay">
-                                    <a href="projects/liveSport/liveSport.html" class="expand"><i
-                                            class="fa fa-search"></i><br>Узнать больше</a>
-                                    <a class="close-overlay hidden">x</a>
-                                </div>
+                <div class=" wp4 delay-1s">
+                    <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                            <img src="img/rocket-app.png" alt="Portfolio Item">
+                            <div class="overlay">
+                                <a href="projects/luckyStrike/luckyStrike.html" class="expand"><i
+                                        class="fa fa-search"></i><br>Узнать больше</a>
+                                <a class="close-overlay hidden">x</a>
                             </div>
                         </div>
-                                <h2><a href="projects/liveSport/liveSport.html">LiveSport</a></h2>
-                                <p>LiveSport - спортивная платформа Кыргызстана.</p>
+                    </div>
+                    <h2><a href="projects/luckyStrike/luckyStrike.html">My Lucky Strike</a></h2>
+                    <p>Мобильная игра.</p>
+                </div>
+                <div class=" wp4 delay-1s">
+                    <div class="overlay-effect effects clearfix">
+                        <div class="img">
+                            <img src="img/news-app.png" alt="Portfolio Item">
+                            <div class="overlay">
+                                <a href="projects/liveSport/liveSport.html" class="expand"><i
+                                        class="fa fa-search"></i><br>Узнать больше</a>
+                                <a class="close-overlay hidden">x</a>
+                            </div>
                         </div>
-                    </li>
-                </ul>
+                    </div>
+                    <h2><a href="projects/liveSport/liveSport.html">LiveSport</a></h2>
+                    <p>LiveSport - спортивная платформа Кыргызстана.</p>
+                </div>
+
             </div>
         </div>
     </div>
 </section>
 
+<!--<section class="text-center">-->
+    <!--<h1 class="arrow">Наша деятельность и наши достижения</h1>-->
+
+<!--</section>-->
 
 <section class="subscribe text-center">
     <div class="container">
@@ -373,7 +447,7 @@
         <div class="row contact-details">
             <div class="col-md-4">
                 <div class="light-box box-hover">
-                    <h2><i class="fa fa-map-marker"></i><span>Address</span></h2>
+                    <h2><i class="fa fa-map-marker"></i><span>Адрес</span></h2>
                     <p>American University of Central Asia
                         7/6 Aaly Tokombaev Street
                         Bishkek, Kyrgyz Republic 720060</p>
@@ -381,14 +455,14 @@
             </div>
             <div class="col-md-4">
                 <div class="light-box box-hover">
-                    <h2><i class="fa fa-mobile"></i><span>Phone</span></h2>
+                    <h2><i class="fa fa-mobile"></i><span>Номер телефона</span></h2>
                     <p>+996(550)225310 - Санира</p>
                     <p> +996(773)090203 - Бегимай</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="light-box box-hover">
-                    <h2><i class="fa fa-paper-plane"></i><span>Email</span></h2>
+                    <h2><i class="fa fa-paper-plane"></i><span>Почта</span></h2>
                     <p><a href="#">neobiskg@gmail.com</a></p>
                 </div>
             </div>
@@ -429,6 +503,34 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/scripts.js"></script>
 <script src="js/jquery.flexslider.js"></script>
+<!--OWL CAROUSEL SLIDER, SHOULD BE INCLUDED AFTER JQUERY-->
+<script src="./owl.carousel/owl.carousel.min.js"></script>
+<script>$(document).ready(function () {
+    $(document).ready(function () {
+        $('#carouselOne').owlCarousel({
+            loop: true, //Зацикливаем слайдер
+            margin: 10, //Отступ от элемента справа в 50px
+            nav: true, //Отключение навигации
+            autoplay: false, //Автозапуск слайдера
+            smartSpeed: 1000, //Время движения слайда
+            autoplayTimeout: 2000, //Время смены слайда
+            responsive: { //Адаптивность. Кол-во выводимых элементов при определенной ширине.
+                0: {
+                    items: 1
+                },
+                200: {
+                    items: 2
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 4
+                }
+            }
+        });
+    });
+});</script>
 <script src="js/modernizr.js"></script>
 <!--Real time database-->
 <script src="js/firebase.js"></script>
