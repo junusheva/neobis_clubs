@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6c6563d-f542-4bfc-8751-0602cfa33161" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/projects/ms82/ms82.html" afterPath="$PROJECT_DIR$/web/projects/ms82/ms82.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/projects/poputka/poputka.html" afterPath="$PROJECT_DIR$/web/projects/poputka/poputka.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -219,11 +219,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ms82.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/projects/ms82/ms82.html">
+      <file leaf-file-name="poputka.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/projects/poputka/poputka.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+            <state relative-caret-position="283">
+              <caret line="23" column="62" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -267,6 +267,7 @@
         <option value="$PROJECT_DIR$/web/projects/luckyStrike/luckyStrike.html" />
         <option value="$PROJECT_DIR$/web/projects/megamusic/megaMusic.html" />
         <option value="$PROJECT_DIR$/web/projects/ms82/ms82.html" />
+        <option value="$PROJECT_DIR$/web/projects/poputka/poputka.html" />
       </list>
     </option>
   </component>
@@ -320,6 +321,13 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="projects" type="462c0819:PsiDirectoryNode" />
               <item name="ms82" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="neobis-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neobis-website" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="poputka" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="neobis-website" type="b2602c69:ProjectViewProjectNode" />
@@ -397,7 +405,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24427000" />
+    <option name="totallyTimeSpent" value="24662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="718" height="900" extended-state="0" />
@@ -432,13 +440,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3495">
-          <caret line="233" column="20" lean-forward="false" selection-start-line="233" selection-start-column="20" selection-end-line="233" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2057,6 +2058,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/projects/ms82/ms82.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="27" column="62" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web-english/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -2065,10 +2074,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/projects/ms82/ms82.html">
+    <entry file="file://$PROJECT_DIR$/web/projects/poputka/poputka.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        <state relative-caret-position="283">
+          <caret line="23" column="62" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="62" />
           <folding />
         </state>
       </provider>
