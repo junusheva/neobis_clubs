@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6c6563d-f542-4bfc-8751-0602cfa33161" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-english/projects/catchIt/catchIt.html" afterPath="$PROJECT_DIR$/web-english/projects/catchIt/catchIt.html" />
-    </list>
+    <list default="true" id="e6c6563d-f542-4bfc-8751-0602cfa33161" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -219,11 +217,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="catchIt.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web-english/projects/catchIt/catchIt.html">
+      <file leaf-file-name="forming.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web-english/projects/forming/forming.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="27" column="66" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="66" />
+            <state relative-caret-position="420">
+              <caret line="20" column="89" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -321,7 +319,7 @@
               <item name="neobis-website" type="462c0819:PsiDirectoryNode" />
               <item name="web-english" type="462c0819:PsiDirectoryNode" />
               <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="catchIt" type="462c0819:PsiDirectoryNode" />
+              <item name="forming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -375,7 +373,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23340000" />
+    <option name="totallyTimeSpent" value="23400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="718" height="900" extended-state="0" />
@@ -2751,6 +2749,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web-english/projects/catchIt/catchIt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web-english/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -2759,10 +2765,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-english/projects/catchIt/catchIt.html">
+    <entry file="file://$PROJECT_DIR$/web-english/projects/forming/forming.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="27" column="66" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="66" />
+        <state relative-caret-position="420">
+          <caret line="20" column="89" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="89" />
           <folding />
         </state>
       </provider>
