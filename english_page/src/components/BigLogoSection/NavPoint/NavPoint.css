@@ -1,0 +1,32 @@
+.NavPoint {
+    border: 1px solid rgb(50, 180, 130);
+    border-radius: 50%;
+    /*position: absolute;*/
+    /*right: 10px;*/
+    width: 8px;
+    height: 8px;
+    z-index: 418;
+}
+
+.NavPoint:hover {
+    border-radius: 50%;
+    background-color: rgb(50, 180, 130);
+    /*position: absolute;*/
+    /*right: 10px;*/
+    width: 10px;
+    margin-right: -2px;
+    height: 10px;
+    z-index: 420;
+}
+.Эллипс_3_копия_9 {
+    border-radius: 50%;
+    background-color: rgb(50, 180, 130);
+    position: absolute;
+    left: 88px;
+    top: 3099px;
+    width: 20px;
+    height: 20px;
+    z-index: 25;
+}
+
+

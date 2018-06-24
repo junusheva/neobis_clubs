@@ -3,6 +3,7 @@ import {connect} from "react-redux";
 import {fetchSiteInfo} from "../../store/actions/siteInfo";
 import Grider from "../../components/Grider/Grider";
 import Ellipses from "../../components/BigLogoSection/Ellipses/Ellipses";
+import NavBar from "../../components/NavBar/NavBar";
 
 
 
@@ -17,6 +18,7 @@ class MainPage extends Component {
         return (
             <Fragment>
                     <Ellipses/>
+                <NavBar/>
                 <Grider>
 
                 </Grider>

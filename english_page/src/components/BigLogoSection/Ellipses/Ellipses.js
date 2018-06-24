@@ -9,6 +9,7 @@ const Ellipses = props => (
         <img  className='BackEllipse' src={backEllipse} alt=""/>
         <img  className='FrontEllipse' src={frontEllipse} alt=""/>
         <NeobisBigLogo/>
+
     </div>
 );
 
