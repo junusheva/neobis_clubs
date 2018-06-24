@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {connect} from "react-redux";
 import {fetchSiteInfo} from "../../store/actions/siteInfo";
+import Grider from "../../components/Grider/Grider";
 
 class App extends Component {
 
@@ -11,7 +12,9 @@ class App extends Component {
 
     render() {
         return (
-            <div/>
+            <Grider>
+
+            </Grider>
         );
     }
 }
