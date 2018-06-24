@@ -1,0 +1,40 @@
+.ItemBigNumber {
+    font-size: 53.337px;
+    font-family: "NexaBold", monospace;
+    color: rgb(48, 166, 121);
+    line-height: 1.087;
+    text-align: left;
+    -moz-transform: matrix( 1.49989989640663,0,0,1.49989989640663,0,0);
+    -webkit-transform: matrix( 1.49989989640663,0,0,1.49989989640663,0,0);
+    -ms-transform: matrix( 1.49989989640663,0,0,1.49989989640663,0,0);
+    z-index: 392;
+    margin: -65px 0 -7px 40px;
+    padding: 0;
+}
+
+.ItemTitle {
+    font-size: 20px;
+    font-family: "Raleway SemiBold", sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 2.417;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+.ItemText {
+    font-size: 13px;
+    font-family: "OpenSans Regular", sans-serif;
+    color: rgb(0, 0, 0);
+    line-height: 1.512;
+    text-align: left;
+}
+
+.OurSectionItem {
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 7px 22px 0 rgba(89, 100, 110, 0.12);
+    width: 30%;
+    padding: 54px 34px 7px;
+}
