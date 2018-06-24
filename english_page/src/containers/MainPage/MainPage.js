@@ -1,9 +1,12 @@
-import React, {Component} from 'react';
+import React, {Component, Fragment} from 'react';
 import {connect} from "react-redux";
 import {fetchSiteInfo} from "../../store/actions/siteInfo";
 import Grider from "../../components/Grider/Grider";
+import Ellipses from "../../components/BigLogoSection/Ellipses/Ellipses";
 
-class App extends Component {
+
+
+class MainPage extends Component {
 
     componentDidMount () {
         this.props.fetchSiteInfo();
@@ -12,9 +15,13 @@ class App extends Component {
 
     render() {
         return (
-            <Grider>
+            <Fragment>
+                    <Ellipses/>
+                <Grider>
 
-            </Grider>
+                </Grider>
+            </Fragment>
+
         );
     }
 }
@@ -27,4 +34,4 @@ const mapDispatchToProps = dispatch => ({
     fetchSiteInfo: () => dispatch(fetchSiteInfo())
 });
 
-export default connect(mapStateToProps, mapDispatchToProps)(App);
+export default connect(mapStateToProps, mapDispatchToProps)(MainPage);
