@@ -1,6 +1,6 @@
 import React from 'react';
 import './AboutUsIntro.css';
-import SectionTitle from "../../SectionTitle/SectionTitle";
+import SectionTitle from "../../UI/SectionTitle/SectionTitle";
 
 const AboutUsIntro = props => (
     <div className="AboutUsIntro" id='aboutUs'>

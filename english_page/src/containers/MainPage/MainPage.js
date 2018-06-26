@@ -7,6 +7,7 @@ import NavBar from "../../components/UI/NavBar/NavBar";
 import AboutUsIntro from "../../components/AboutUs/AboutUsIntro/AboutUsIntro";
 import OurSection from "../../components/AboutUs/OurSection/OurSection";
 import WeTeachSection from "../../components/WeTeachSection/WeTeachSection";
+import Technologies from "../../components/Technologies/Technologies";
 
 
 
@@ -26,7 +27,7 @@ class MainPage extends Component {
                     <AboutUsIntro/>
                     <OurSection/>
                     <WeTeachSection/>
-
+                    <Technologies/>
                 </Grider>
             </Fragment>
 

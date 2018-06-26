@@ -1,5 +1,5 @@
 import React from 'react';
-import NavPoint from "../BigLogoSection/NavPoint/NavPoint";
+import NavPoint from "../../BigLogoSection/NavPoint/NavPoint";
 import './NavBar.css';
 
 const NavBar = props => (
