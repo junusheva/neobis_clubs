@@ -26,7 +26,7 @@ const OurSection = props => (
             />
         </ScrollAnimation>
         <ScrollAnimation
-            delay={700}
+            delay={600}
             animateIn='fadeIn'
             duration={3}
             initiallyVisible={false}>

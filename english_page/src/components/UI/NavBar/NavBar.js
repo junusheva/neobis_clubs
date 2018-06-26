@@ -4,9 +4,9 @@ import './NavBar.css';
 
 const NavBar = props => (
     <div className="NavBar">
-        <NavPoint/>
-        <NavPoint/>
-        <NavPoint/>
+        <NavPoint href='main'/>
+        <NavPoint href='aboutUs'/>
+        <NavPoint href='weTeach'/>
         <NavPoint/>
     </div>
 );

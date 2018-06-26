@@ -1,21 +1,16 @@
-.AboutUsIntro h3 {
-    font-size: 30px;
-    font-family: "Raleway SemiBold", sans-serif;
-    color: rgb(0, 0, 0);
-    text-transform: uppercase;
-    line-height: 1.933;
-    text-align: center;
-    z-index: 400;
-    font-weight: 500;
-    margin-top: 148px;
-}
+/*.AboutUsIntro h3 {*/
+    /*font-size: 30px;*/
+    /*font-family: "Raleway SemiBold", sans-serif;*/
+    /*color: rgb(0, 0, 0);*/
+    /*text-transform: uppercase;*/
+    /*line-height: 1.933;*/
+    /*text-align: center;*/
+    /*z-index: 400;*/
+    /*font-weight: 500;*/
+    /*margin-top: 148px;*/
+/*}*/
 
-.AboutUnderline {
-    border-bottom: 2px solid rgb(50, 180, 130);
-    width: 54px;
-    height: 1px;
-    margin-top: -25px;
-}
+
 
 
 .AboutUsIntro {
@@ -33,4 +28,18 @@
     text-align: center;
     z-index: 398;
     width: 88%;
+}
+
+.ellipse_opacity {
+    border-radius: 50%;
+    background-image: -moz-linear-gradient( -90deg, rgb(50,180,130) 0%, rgb(27,222,146) 100%);
+    background-image: -webkit-linear-gradient( -90deg, rgb(50,180,130) 0%, rgb(27,222,146) 100%);
+    background-image: -ms-linear-gradient( -90deg, rgb(50,180,130) 0%, rgb(27,222,146) 100%);
+    opacity: 0.2;
+    position: absolute;
+    left: 584px;
+    top: 4532px;
+    width: 141px;
+    height: 141px;
+    z-index: 254;
 }

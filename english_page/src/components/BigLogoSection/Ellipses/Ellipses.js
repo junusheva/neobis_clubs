@@ -5,7 +5,7 @@ import './Ellipses.css';
 import NeobisBigLogo from "../NeobisBigLogo/NeobisBigLogo";
 
 const Ellipses = props => (
-    <div className='EllipsesContainer'>
+    <div className='EllipsesContainer' id='main'>
         <img  className='BackEllipse' src={backEllipse} alt=""/>
         <img  className='FrontEllipse' src={frontEllipse} alt=""/>
         <NeobisBigLogo/>
