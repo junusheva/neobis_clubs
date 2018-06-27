@@ -55,7 +55,7 @@
     font-weight: 500;
     text-transform: uppercase;
     line-height: 1.417;
-    text-align: right;
+    /*text-align: right;*/
     margin-bottom: -10px;
 }
 
@@ -64,14 +64,7 @@
     font-family: "OpenSans Regular", sans-serif;
     color: rgb(0, 0, 0);
     line-height: 1.294;
-    text-align: right;
+    /*text-align: right;*/
     width: 307px;
     height: 83px;
-}
-
-.WeSectionSvg {
-    position: absolute;
-    height: 380px;
-    right: 12px;
-    top: -12px;
 }
