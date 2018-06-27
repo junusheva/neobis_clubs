@@ -35,6 +35,7 @@ const WeTeachSection = () => {
                         animateIn='flipInY'
                         delay={index*100}
                         className='PlatformIcon'
+                        key={index}
                     >
                         {platform}
                     </ScrollAnimation>

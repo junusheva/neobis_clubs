@@ -2,6 +2,7 @@ import React, {Component, Fragment} from 'react';
 import {connect} from "react-redux";
 
 import {fetchSiteInfo} from "../../store/actions/siteInfo";
+import './test.css';
 
 import Grider from "../../components/UI/Grider/Grider";
 import Ellipses from "../../components/BigLogoSection/Ellipses/Ellipses";
@@ -32,6 +33,13 @@ class MainPage extends Component {
                     <OurSection/>
                     <WeTeachSection/>
                     <Technologies/>
+                    <div className="container">
+                        <div className="circleAndLineContainer">
+                            <div className="circle"><p>01</p></div>
+                            <div className="justDashedLine"/>
+                        </div>
+
+                    </div>
 
                 </Grider>
             </Fragment>

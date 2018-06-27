@@ -1,6 +1,5 @@
-import React, {Fragment} from 'react';
+import React from 'react';
 import SectionTitle from "../UI/SectionTitle/SectionTitle";
-import ScrollAnimation from 'react-animate-on-scroll';
 
 import java from './icons/java.svg';
 import js from './icons/js.svg';

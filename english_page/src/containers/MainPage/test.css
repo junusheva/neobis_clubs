@@ -1,0 +1,43 @@
+.container {
+    position: relative;
+}
+
+.justDashedLine {
+    position: absolute;
+    /*right: 50%;*/
+    top: 55px;
+    border: dashed 1px #32b482;
+    width: 0;
+    height: 270px;
+}
+
+.circleAndLineContainer {
+    width: 100%;
+    /* height: 200px; */
+    position: relative;
+    display: flex;
+    margin: 50px 0;
+    justify-content: center;
+}
+
+.circle {
+    border-radius: 50%;
+    background-color: rgb(50, 180, 130);
+    position: absolute;
+    top: 0px;
+    width: 56px;
+    height: 56px;
+    z-index: 342;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle p {
+    font-size: 24px;
+    font-family: "Lato", sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 2.417;
+}
