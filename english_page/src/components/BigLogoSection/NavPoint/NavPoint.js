@@ -1,8 +1,9 @@
 import React from 'react';
 import './NavPoint.css';
+import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 const NavPoint = props => (
-    <a className='NavPoint' href={'#' + props.href}/>
+    <AnchorLink className='NavPoint' href={'#' + props.href}/>
 );
 
 export default NavPoint;

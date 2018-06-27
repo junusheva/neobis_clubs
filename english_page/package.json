@@ -6,6 +6,7 @@
     "aos": "^2.3.2",
     "axios": "^0.18.0",
     "react": "^16.4.0",
+    "react-anchor-link-smooth-scroll": "^1.0.10",
     "react-animate-on-scroll": "^2.1.5",
     "react-dom": "^16.4.0",
     "react-redux": "^5.0.7",

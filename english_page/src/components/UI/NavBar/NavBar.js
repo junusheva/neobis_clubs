@@ -7,7 +7,7 @@ const NavBar = props => (
         <NavPoint href='main'/>
         <NavPoint href='aboutUs'/>
         <NavPoint href='weTeach'/>
-        <NavPoint/>
+        <NavPoint href='technologies'/>
     </div>
 );
 

@@ -15,7 +15,7 @@ const Technologies = props => {
     const icons = [ java, js, kotlin, python, react, swift];
 
     return (
-        <Fragment>
+        <div id='technologies'>
             <SectionTitle title='Технологии'/>
             {/*<ScrollAnimation animateIn='fadeIn'>*/}
                 <div className="TechnologyIcons">
@@ -26,7 +26,7 @@ const Technologies = props => {
                     ))}
                 </div>
             {/*</ScrollAnimation>*/}
-        </Fragment>
+        </div>
     );
 }
 
