@@ -1,70 +1,77 @@
-.container {
-    position: relative;
-}
+/*.WeSectionContainer {*/
+    /*position: relative;*/
+    /*height: 350px;*/
+    /*!*margin-top: 100px;*!*/
+/*}*/
 
-.justDashedLine {
-    position: absolute;
-    /*right: 50%;*/
-    top: 55px;
-    border: dashed 1px #32b482;
-    width: 0;
-    height: 270px;
-}
+/*.justDashedLine {*/
+    /*position: absolute;*/
+    /*top: 55px;*/
+    /*border: dashed 1px #32b482;*/
+    /*width: 0;*/
+    /*height: 300px;*/
+/*}*/
 
-.circleAndLineContainer {
-    width: 100%;
-    /* height: 200px; */
-    position: relative;
-    display: flex;
-    margin: 50px 0;
-    justify-content: center;
-}
+/*.circleAndLineContainer {*/
+    /*width: 100%;*/
+    /*position: relative;*/
+    /*display: flex;*/
+    /*margin: 50px 0;*/
+    /*justify-content: center;*/
+/*}*/
 
-.circle {
-    border-radius: 50%;
-    background-color: rgb(50, 180, 130);
-    position: absolute;
-    top: 0px;
-    width: 56px;
-    height: 56px;
-    z-index: 342;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+/*.circle {*/
+    /*border-radius: 50%;*/
+    /*background-color: rgb(50, 180, 130);*/
+    /*position: absolute;*/
+    /*top: 0px;*/
+    /*width: 56px;*/
+    /*height: 56px;*/
+    /*z-index: 342;*/
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+/*}*/
 
-.circle p {
-    font-size: 24px;
-    font-family: "Lato", sans-serif;
-    color: rgb(255, 255, 255);
-    font-weight: 400;
-    text-transform: uppercase;
-    line-height: 2.417;
-}
+/*.circle p {*/
+    /*font-size: 24px;*/
+    /*font-family: "Lato", sans-serif;*/
+    /*color: rgb(255, 255, 255);*/
+    /*font-weight: 400;*/
+    /*text-transform: uppercase;*/
+    /*line-height: 2.417;*/
+/*}*/
 
-.WeTextContainer {
-    position: absolute;
-    left: 0;
-    top: -8px;
-}
+/*.WeTextContainer {*/
+    /*position: absolute;*/
+    /*left: 0;*/
+    /*top: -8px;*/
+/*}*/
 
-.WeTextContainerTitle {
-    font-size: 24px;
-    font-family: "Raleway SemiBold", sans-serif;
-    color: rgb(0, 0, 0);
-    font-weight: 500;
-    text-transform: uppercase;
-    line-height: 1.417;
-    /*text-align: right;*/
-    margin-bottom: -10px;
-}
+/*.WeTextContainerTitle {*/
+    /*font-size: 24px;*/
+    /*font-family: "Raleway SemiBold", sans-serif;*/
+    /*color: rgb(0, 0, 0);*/
+    /*font-weight: 500;*/
+    /*text-transform: uppercase;*/
+    /*line-height: 1.417;*/
+    /*!*text-align: right;*!*/
+    /*margin-bottom: -10px;*/
+/*}*/
 
-.WeTextContainerBody {
-    font-size: 17px;
-    font-family: "OpenSans Regular", sans-serif;
-    color: rgb(0, 0, 0);
-    line-height: 1.294;
-    /*text-align: right;*/
-    width: 307px;
-    height: 83px;
-}
+/*.WeTextContainerBody {*/
+    /*font-size: 17px;*/
+    /*font-family: "OpenSans Regular", sans-serif;*/
+    /*color: rgb(0, 0, 0);*/
+    /*line-height: 1.294;*/
+    /*!*text-align: right;*!*/
+    /*width: 307px;*/
+    /*height: 83px;*/
+/*}*/
+
+/*.WeSectionSvg {*/
+    /*position: absolute;*/
+    /*height: 380px;*/
+    /*right: 12px;*/
+    /*top: -39px;*/
+/*}*/

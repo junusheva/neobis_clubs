@@ -13,8 +13,11 @@ import WeTeachSection from "../../components/WeTeachSection/WeTeachSection";
 import Technologies from "../../components/Technologies/Technologies";
 import DownArrow from "../../components/UI/DownArrow/DownArrow";
 import WeSection from "../../components/WeSection/WeSection";
-import treeSvg from '../../pictures/tree-illustration.svg';
+import CircleAndLine from "../../components/WeSection/CircleAndLine/CircleAndLine";
+import WeTextTitleAndBody from "../../components/WeSection/WeTextTitleAndBody/WeTextTitleAndBody";
 
+import treeSvg from '../../pictures/tree-illustration.svg';
+import phoneSvg from '../../pictures/phone-illustration.svg';
 
 
 class MainPage extends Component {
@@ -38,21 +41,42 @@ class MainPage extends Component {
                     {/*title='Мы верим'*/}
                     {/*body='в обучение через разработку коммерческих проектов эффективно для понимания теоретической базы, преподаваемой в вузах'*/}
                     {/*align='right'*/}
+                    {/*svg={treeSvg}*/}
                     {/*/>*/}
+                    {/*<WeSection*/}
+                        {/*number='02'*/}
+                        {/*title='Мы помогаем'*/}
+                        {/*body='бизнесу за короткие сроки и маленький бюджет получить ПО для улучшения своего сервиса'*/}
+                        {/*align='left'*/}
+                        {/*svg={treeSvg}*/}
+                    {/*/>*/}
+                    <div id="weSection">
+                        <div className="WeSectionTree">
+                            <CircleAndLine numberString='01'/>
+                            <div className="WeSectionTreeText">
+                                <WeTextTitleAndBody
+                                    title='Мы верим'
+                                    body='в обучение через разработку коммерческих проектов эффективно для понимания теоретической базы, преподаваемой в вузах'
+                                    align='right'
+                                />
+                            </div>
+                            <img src={treeSvg} alt="" className='WeSectionSvg'/>
+                        </div>
 
-                    <div className="container">
-                        <div className="circleAndLineContainer">
-                            <div className="circle"><p>01</p></div>
-                            <div className="justDashedLine"/>
+                        <div className="WeSectionPhone">
+                            <CircleAndLine numberString='02'/>
+                            <div className="WeSectionPhoneText">
+                                <WeTextTitleAndBody
+                                    title='Мы помогаем'
+                                    body='бизнесу за короткие сроки и маленький бюджет получить ПО для улучшения своего сервиса'
+                                    align='left'
+                                />
+                            </div>
+                            <img src={phoneSvg} alt="" className='WeSectionSvg'/>
                         </div>
-                        <div className="WeTextContainer">
-                            <p className="WeTextContainerTitle">Мы верим</p>
-                            <p className="WeTextContainerBody">
-                                в обучение через разработку коммерческих проектов эффективно для понимания теоретической базы, преподаваемой в вузах
-                            </p>
-                        </div>
-                        <img src={treeSvg} alt="" className='WeSectionSvg'/>
                     </div>
+
+
                     
                     <WeTeachSection/>
                     <Technologies/>
