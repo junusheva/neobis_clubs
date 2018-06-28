@@ -13,11 +13,11 @@ import Technologies from "../../components/Technologies/Technologies";
 import DownArrow from "../../components/UI/DownArrow/DownArrow";
 import WeSection from "../../components/WeSection/WeSection";
 
-
+import './test.css';
 
 class MainPage extends Component {
 
-    componentDidMount () {
+    componentDidMount() {
         this.props.fetchSiteInfo();
         console.log(this.props.aboutUsSection);
     }
@@ -25,20 +25,23 @@ class MainPage extends Component {
     render() {
         return (
             <Fragment>
-                    <Ellipses/>
+                <Ellipses/>
                 <NavBar/>
                 <Grider>
                     <AboutUsIntro/>
                     <DownArrow/>
                     <OurSection/>
                     <WeSection/>
+                </Grider>
 
-                    
+                <div className="BigGreyCircleContainer">
+                    <div className="BigGreyCircle">
+                        something
+                    </div>
+                </div>
+                <Grider>
                     <WeTeachSection/>
                     <Technologies/>
-
-
-
                 </Grider>
             </Fragment>
 
