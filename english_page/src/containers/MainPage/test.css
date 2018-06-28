@@ -1,38 +1,53 @@
-.WeSectionTree {
-    position: relative;
-    height: 350px;
-    /*margin-top: 100px;*/
-}
+/*.WeSectionTree {*/
+    /*position: relative;*/
+    /*height: 350px;*/
+    /*!*margin-top: 100px;*!*/
+/*}*/
+/*.WeSectionTreeText {*/
+    /*position: absolute;*/
+    /*left: 0;*/
+    /*top: -8px;*/
+/*}*/
+/*.WeSectionTree img {*/
+    /*position: absolute;*/
+    /*height: 380px;*/
+    /*right: 12px;*/
+    /*top: -39px;*/
+/*}*/
 
-.WeSectionTreeText {
-    position: absolute;
-    left: 0;
-    top: -8px;
-}
 
-.WeSectionTree img {
-    position: absolute;
-    height: 380px;
-    right: 12px;
-    top: -39px;
-}
+/*.WeSectionPhone {*/
+    /*position: relative;*/
+    /*height: 350px;*/
+    /*!*margin-top: 100px;*!*/
+/*}*/
+/*.WeSectionPhone img {*/
+    /*position: absolute;*/
+    /*height: 347px;*/
+    /*right: 500px;*/
+    /*top: -66px;*/
+/*}*/
+/*.WeSectionPhoneText {*/
+    /*position: absolute;*/
+    /*right: 0;*/
+    /*top: -8px;*/
+    /*text-align: left;*/
+/*}*/
 
-.WeSectionPhone {
-    position: relative;
-    height: 350px;
-    /*margin-top: 100px;*/
-}
 
-.WeSectionPhone img {
-    position: absolute;
-    height: 347px;
-    right: 500px;
-    top: -66px;
-}
 
-.WeSectionPhoneText {
-    position: absolute;
-    right: 0;
-    top: -8px;
-    text-align: left;
-}
+/*.WeSectionBooks {*/
+    /*position: relative;*/
+    /*height: 350px;*/
+/*}*/
+/*.WeSectionBooksText {*/
+    /*position: absolute;*/
+    /*left: 0;*/
+    /*top: -8px;*/
+/*}*/
+/*.WeSectionBooks img {*/
+    /*position: absolute;*/
+    /*height: 380px;*/
+    /*right: -74px;*/
+    /*top: -115px;*/
+/*}*/
