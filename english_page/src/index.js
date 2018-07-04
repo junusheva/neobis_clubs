@@ -20,7 +20,7 @@ const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 const enhancers = composeEnhancers(applyMiddleware(thunkMiddleware));
 const store = createStore(rootReducer, enhancers);
 
-axios.defaults.baseURL = 'http://165.227.147.84:3456/api/';
+axios.defaults.baseURL = 'http://165.227.147.84:3456/api/all/';
 
 
 const app = (

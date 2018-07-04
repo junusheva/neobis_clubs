@@ -1,0 +1,36 @@
+.NumberItemNumber {
+    font-size: 72px;
+    font-family: "NexaBold", sans-serif;
+    color: rgb(50, 180, 130);
+    line-height: 0.417;
+    text-align: center;
+    margin: 0;
+    /*position: absolute;*/
+    /*left: 479.937px;*/
+    /*top: 4102.488px;*/
+    /*z-index: 288;*/
+}
+
+.NumberItemText {
+    font-size: 17px;
+    font-family: "OpenSans", sans-serif;
+    color: rgb(0, 0, 0);
+    line-height: 1.294;
+    text-align: center;
+    height: 37px;
+    /*position: absolute;*/
+    /*left: 464.683px;*/
+    /*top: 4186.709px;*/
+    /*z-index: 287;*/
+}
+
+.NumberItem {
+    width: 84px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 85px 0 0 0;
+    border-right: 1px solid #e8e8e8;
+    border-left: 1px solid #e8e8e8;
+    padding: 24px 67px;
+}

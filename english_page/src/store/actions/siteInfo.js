@@ -5,7 +5,7 @@ const aboutUsSuccess = aboutUs => ({type: ABOUT_US_SUCCESS, aboutUs});
 
 export const fetchSiteInfo = () => {
     return dispatch => {
-        axios.get('/about_us').then(result => {
+        axios.get('/').then(result => {
             console.log(result.data);
             dispatch(aboutUsSuccess(result.data));
         })

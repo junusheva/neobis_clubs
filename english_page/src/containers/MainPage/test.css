@@ -1,13 +1,43 @@
 .BigGreyCircle {
-    height: 500px;
+    /*height: 1000px;*/
     width: 100%;
     background: #f7f8f8;
-    border-radius: 50%;
+    border-radius: 100% 100% 100% 100% / 28% 28% 28% 28%;
+    padding-bottom: 131px;
 
 }
 
 .BigGreyCircleContainer {
-    width: 300%;
+    /*width: 300%;*/
     display: flex;
     justify-content: center;
+    margin-top: 48px;
+}
+
+.StepsSection {
+    background: #21d38e; /* Old browsers */
+    background: -moz-linear-gradient(top, #21d38e 0%, #28c789 50%, #32b582 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #21d38e 0%,#28c789 50%,#32b582 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #21d38e 0%,#28c789 50%,#32b582 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#21d38e', endColorstr='#32b582',GradientType=0 ); /* IE6-9 */
+
+    -webkit-box-shadow: 0 0 0 24px rgba(204,241,227,1);
+    -moz-box-shadow: 0 0 0 24px rgba(204,241,227,1);
+    box-shadow: 0 0 0 24px rgba(204,241,227,1);
+
+    /*border-radius: 0 50% 50% 0;*/
+    /*border-radius: 0% 70% 70% 0px / 0px 100% 100% 0px;*/
+    border-radius: 0% 52% 54% 0px / 0px 100% 100% 0px;
+    margin-right: 15%;
+    margin-top: 150px;
+}
+
+.StepsSectionContainer {
+    /*margin-left: 24%;*/
+    margin: 0 auto;
+    width: 57%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
 }
