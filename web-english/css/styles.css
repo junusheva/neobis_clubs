@@ -1,3 +1,25 @@
+/*donations button*/
+.btn-primary {
+    background-color: #33B481;
+    border-color: #fff;
+    font-size: 30px;
+    padding: 13px 30px;
+    border-radius: 14px;
+    margin-top: 58px;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+    background-color: #38d8a0;
+    border-color: #fff;
+}
+
+.donationForm {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 /* ! normalize.css v1.0.0 | MIT License | git.io/normalize */
 
 /* ==========================================================================
