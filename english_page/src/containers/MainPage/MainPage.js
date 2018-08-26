@@ -19,7 +19,10 @@ import SectionText from "../../components/UI/SectionText/SectionText";
 import NeobisInNumbers from "../../components/NeobisInNumbers/NeobisInNumbers";
 import Step from "../../components/StepsSection/Step/Step";
 
-import svg from './gears.svg';
+import StepsSection from "../../components/StepsSection/StepsSection";
+import AlumniSection from "../../components/AlumniSection/AlumniSection";
+import ContactsSection from "../../components/ContactsSection/ContactsSection";
+import SocialFooter from "../../components/SocialFooter/SocialFooter";
 
 class MainPage extends Component {
 
@@ -44,34 +47,12 @@ class MainPage extends Component {
                     <div className="BigGreyCircle">
                         <SectionTitle title='Этапы обучения в Neobis'/>
                         <SectionText textWidth='39%'>
-                            Мы учим современным, полноценным языкам программирования, которые используются везде. Студенты могут применить свои теоретические знания  на практике под присмотром опытного наставника.
+                            Мы учим современным, полноценным языкам программирования, которые используются везде.
+                            Студенты могут применить свои теоретические знания на практике под присмотром опытного
+                            наставника.
                         </SectionText>
                         <DownArrow/>
-                        <div className="StepsSection">
-                            <div className="StepsSectionContainer">
-                                <Step
-                                    title='Старт'
-                                    number='1'
-                                    svg={svg}
-                                >
-                                    Выбирай направление и обучайся под руководством опытных менторов
-                                </Step>
-                                <Step
-                                    title='Проекты'
-                                    number='2'
-                                    svg={svg}
-                                >
-                                    Разработай несколько реальных коммерческих проектов и получи бесценный опыт работы в команде
-                                </Step>
-                                <Step
-                                    title='Менторство'
-                                    number='3'
-                                    svg={svg}
-                                >
-                                    Обучай других новичков и работай в основной команде Neobis
-                                </Step>
-                            </div>
-                        </div>
+                        <StepsSection/>
                         <NeobisInNumbers numbers={this.props.aboutUsSection.stats}/>
                     </div>
                 </div>
@@ -80,6 +61,10 @@ class MainPage extends Component {
                     <WeTeachSection/>
                     <Technologies/>
                 </Grider>
+                {/*<AlumniSection alumnus={this.props.aboutUsSection.graduates}/>*/}
+                <ContactsSection contacts={this.props.aboutUsSection.contacts}/>
+                <SocialFooter/>
+
             </Fragment>
 
         );

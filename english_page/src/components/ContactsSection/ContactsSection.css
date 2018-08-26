@@ -1,0 +1,40 @@
+.ContactsSection {
+    display: flex;
+    justify-content: center;
+    margin: 103px 0;
+}
+
+.ContactsData {
+    border: 1px #bbd0da solid;
+    width: 26%;
+    padding: 50px;
+    border-radius: 39px;
+    -webkit-box-shadow: 0px 0px 79px -17px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 79px -17px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 79px -17px rgba(0, 0, 0, 0.75);
+}
+.ContactItem {
+    display: flex;
+    /*justify-content: space-between;*/
+    align-items: center;
+    /*width: 50%;*/
+}
+
+.ContactItem p {
+    font-size: 17px;
+    font-family: "OpenSans Regular", sans-serif;
+    color: rgb(0, 0, 0);
+    line-height: 1.294;
+    text-align: left;
+    margin-bottom: -8px;
+}
+
+.ContactItem i {
+    color: #32b482;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.ContactsData .SectionTitle h3 {
+    margin-top: 0;
+}

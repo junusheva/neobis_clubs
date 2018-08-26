@@ -31,15 +31,10 @@
     margin-bottom: -4px;
 }
 
-.StepIcon {
-    /*width: 36%;*/
-    border-radius: 50%;
-    border: 1px solid white;
-    padding: 14px 17px;
-}
 
 .StepIcon img {
-
+    border: 0.5px dashed white;
+    border-radius: 50%;
 }
 
 .StepNumber {
