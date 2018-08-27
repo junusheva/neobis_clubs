@@ -1,0 +1,15 @@
+.BigGreyCircle {
+    /*height: 1000px;*/
+    width: 100%;
+    background: #f7f8f8;
+    border-radius: 100% 100% 100% 100% / 28% 28% 28% 28%;
+    padding-bottom: 131px;
+
+}
+
+.BigGreyCircleContainer {
+    /*width: 300%;*/
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+}

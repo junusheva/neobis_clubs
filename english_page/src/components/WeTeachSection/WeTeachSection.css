@@ -1,0 +1,11 @@
+.Platforms {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 50px 0 50px 65px;
+}
+
+.PlatformIcon {
+    /*width: 7%;*/
+    flex-basis: 29%;
+}
