@@ -9,9 +9,9 @@
 .NavPoint:hover {
     border-radius: 50%;
     background-color: rgb(50, 180, 130);
-    width: 10px;
+    width: 8px;
     margin-right: -2px;
-    height: 10px;
+    height: 8px;
     z-index: 420;
     -webkit-animation-name: fadeIn;
     animation-name: fadeIn;

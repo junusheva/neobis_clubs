@@ -18,7 +18,7 @@ const NeobisInNumbers = props => {
     // }
     // setInterval(() => startAnimation(this.myCountUp), 5000);
     return (
-        <div className="NeobisInNumbers">
+        <div className="NeobisInNumbers" id={'NeobisInNumbers'}>
             <SectionTitle title='Neobis в цифрах'/>
             <div className="numbersContainer">
                 {/*<ScrollAnimation animateIn='fadeIn'>*/}

@@ -44,7 +44,7 @@ class MainPage extends Component {
                 </Grider>
 
                 <div className="BigGreyCircleContainer">
-                    <div className="BigGreyCircle">
+                    <div className="BigGreyCircle" id={'educationSteps'}>
                         <SectionTitle title='Этапы обучения в Neobis'/>
                         <SectionText textWidth='39%'>
                             Мы учим современным, полноценным языкам программирования, которые используются везде.

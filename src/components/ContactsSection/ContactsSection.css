@@ -1,7 +1,10 @@
+#contacts {
+    margin: 103px 30px;
+}
+
 .ContactsSection {
     display: flex;
     justify-content: center;
-    margin: 103px 0;
 }
 
 .ContactsData {
