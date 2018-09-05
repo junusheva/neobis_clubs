@@ -4,7 +4,7 @@ import AnimatedNumber from 'react-animated-number';
 import CountUp, {startAnimation} from 'react-countup';
 
 const NumberItem = props => {
-    setInterval(() => startAnimation(this.myCountUp), 5000);
+    //setInterval(() => startAnimation(this.myCountUp), 5000);
     return (
         <div className="NumberItem">
             {/*<AnimatedNumber component="text" value={props.number}*/}
