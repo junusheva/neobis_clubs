@@ -19,9 +19,35 @@
 .StepsSectionContainer {
     /*margin-left: 24%;*/
     margin: 0 auto;
-    width: 57%;
+    width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
     flex-wrap: wrap;
+}
 
+@media screen and (max-width: 870px) {
+    .StepsSection {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .StepsSection {
+        height: 700px;
+    }
+    .StepsSectionContainer {
+        height: 100%;
+        justify-content: space-around;
+    }
+}
+
+@media screen and (max-width: 496px) {
+    .StepsSection {
+        height: 1000px;
+    }
+    .StepsSectionContainer {
+        padding-top: 30px;
+    }
 }

@@ -34,3 +34,18 @@
     border-left: 1px solid #e8e8e8;
     padding: 24px 67px;
 }
+@media screen and (max-width: 800px) {
+    .NumberItem {
+        margin: 45px 0 0 0;
+    }
+}
+@media screen and (max-width: 750px) {
+    .NumberItem {
+        padding: 15px 45px;
+    }
+}
+@media screen and (max-width: 450px) {
+    .NumberItem {
+        padding: 10px 30px;
+    }
+}

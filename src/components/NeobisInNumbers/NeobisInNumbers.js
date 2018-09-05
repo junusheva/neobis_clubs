@@ -56,7 +56,7 @@ const NeobisInNumbers = props => {
                         {/*)}*/}
                     {/*/>*/}
                 {/*</ScrollAnimation>*/}
-                
+                <div className='two-col'>
                 <NumberItem
                     number={numbers ? numbers.members : 0}
                     text='Человек в команде'
@@ -66,8 +66,8 @@ const NeobisInNumbers = props => {
                     number={numbers ? numbers.years_active : 0}
                     text='Года на рынке'
                 />
-
-
+                </div>
+                <div className='two-col'>
                 <NumberItem
                     number={numbers ? numbers.students : 0}
                     text='Студентов обучено'
@@ -78,7 +78,7 @@ const NeobisInNumbers = props => {
                     number={numbers ? numbers.projects : 0}
                     text='Реализованных проектов'
                 />
-
+                </div>
             </div>
         </div>
     );

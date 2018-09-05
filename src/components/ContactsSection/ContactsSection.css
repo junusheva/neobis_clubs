@@ -1,10 +1,7 @@
-#contacts {
-    margin: 103px 30px;
-}
-
 .ContactsSection {
     display: flex;
     justify-content: center;
+    margin: 103px 0;
 }
 
 .ContactsData {
@@ -21,6 +18,7 @@
     /*justify-content: space-between;*/
     align-items: center;
     /*width: 50%;*/
+    text-align: center;
 }
 
 .ContactItem p {
@@ -40,4 +38,26 @@
 
 .ContactsData .SectionTitle h3 {
     margin-top: 0;
+}
+
+@media screen and (min-width: 800px) {
+    .ContactsData {
+        width: 445px;
+    }
+}
+@media screen and (max-width: 800px) {
+    .ContactsData {
+        width: 400px;
+    }
+}
+@media screen and (max-width: 650px) {
+    .ContactsData {
+        width: 80%;
+        padding: 30px;
+    }
+}
+@media screen and (max-width: 415px) {
+    .ContactItem p{
+        font-size: 14px;
+    }
 }
