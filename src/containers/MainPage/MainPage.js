@@ -19,6 +19,7 @@ import SectionText from "../../components/UI/SectionText/SectionText";
 import NeobisInNumbers from "../../components/NeobisInNumbers/NeobisInNumbers";
 import Step from "../../components/StepsSection/Step/Step";
 
+import GradCarousel from "../../components/GraduatesCarousel/GraduatesCarousel";
 import StepsSection from "../../components/StepsSection/StepsSection";
 import AlumniSection from "../../components/AlumniSection/AlumniSection";
 import ContactsSection from "../../components/ContactsSection/ContactsSection";
@@ -61,6 +62,7 @@ class MainPage extends Component {
                     <WeTeachSection/>
                     <Technologies/>
                 </Grider>
+                <GradCarousel/>
                 {/*<AlumniSection alumnus={this.props.aboutUsSection.graduates}/>*/}
                 <ContactsSection contacts={this.props.aboutUsSection.contacts}/>
                 <SocialFooter/>
