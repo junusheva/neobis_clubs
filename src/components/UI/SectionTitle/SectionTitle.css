@@ -23,3 +23,9 @@
     flex-direction: column;
     align-items: center;
 }
+
+@media screen and (max-width: 1300px) {
+    .SectionTitle h3 {
+        margin-top: 100px !important;
+    }
+}

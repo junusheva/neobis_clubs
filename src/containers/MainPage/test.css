@@ -4,7 +4,7 @@
     background: #f7f8f8;
     border-radius: 100% 100% 100% 100% / 28% 28% 28% 28%;
     padding-bottom: 131px;
-
+    margin-bottom: 0px;
 }
 
 .BigGreyCircleContainer {
@@ -12,4 +12,16 @@
     display: flex;
     justify-content: center;
     margin-top: 48px;
+}
+
+@media screen and (max-width: 1200px) {
+    #educationSteps {
+	    padding-bottom: 50px;
+	}
+}
+
+@media screen and (max-width: 550px) {
+    #educationSteps {
+	    padding-bottom: 10px;
+	}
 }
