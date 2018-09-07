@@ -55,22 +55,75 @@
     animation-name: rollIn;
 }
 
+
+@media screen and (max-width: 1300px) {
+    .EllipsesContainer {
+        height: 785px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .EllipsesContainer {
+        height: 685px;
+    }
+}
+@media screen and (max-width: 1100px) {
+    .EllipsesContainer {
+        height: 600px;
+    }
+}
+@media screen and (max-width: 1050px) {
+    .EllipsesContainer {
+        height: 530px;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .EllipsesContainer {
+        height: 500px;
+    }
+}
+@media screen and (max-width: 900px) {
+    .EllipsesContainer {
+        height: 450px;
+    }
+}
+@media screen and (max-width: 800px) {
+    .EllipsesContainer {
+        height: 400px;
+    }
+}
+
+
 @media screen and (max-width: 700px) {
     .EllipsesContainer {
         position: relative;
-        height: 50vh;
+        height: 380px;
     }
     .FrontEllipse, .BackEllipse {
         left: -10%;
         top: -0%;
     }
 }
-
+@media screen and (max-width: 655px) {
+    .EllipsesContainer {
+        height: 320px;
+    }
+}
 @media screen and (max-width: 555px) {
     .FrontEllipse, .BackEllipse {
     }
     .EllipsesContainer {
         position: relative;
-        height: 30vh;
+        height: 280px;
+    }
+}
+@media screen and (max-width: 455px) {
+    .EllipsesContainer {
+        height: 230px;
+    }
+}
+@media screen and (max-width: 385px) {
+    .EllipsesContainer {
+        height: 200px;
     }
 }
