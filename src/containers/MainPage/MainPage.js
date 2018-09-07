@@ -46,7 +46,7 @@ class MainPage extends Component {
                 <div className="BigGreyCircleContainer">
                     <div className="BigGreyCircle" id={'educationSteps'}>
                         <SectionTitle title='Этапы обучения в Neobis'/>
-                        <SectionText textWidth='39%'>
+                        <SectionText textWidth='450px'>
                             Мы учим современным, полноценным языкам программирования, которые используются везде.
                             Студенты могут применить свои теоретические знания на практике под присмотром опытного
                             наставника.
