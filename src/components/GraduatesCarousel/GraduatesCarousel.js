@@ -5,6 +5,9 @@ import styled from "styled-components";
 import "./GraduatesCarousel.css";
 import emir from './Emir.png';
 import samat from './samat.png';
+import aisalkyn from './aisalkyn.png';
+import mamur from './mamur.png';
+import SectionTitle from "../UI/SectionTitle/SectionTitle";
 
 const content = Array(14).fill("BOX");
 const Box = styled.div`
@@ -17,7 +20,7 @@ class GradCarousel extends React.Component {
             "profession": "Android Developer",
             "place": "MadDevs",
             "quote": "I opened new opportunities",
-            "photo": "https://muenueschkoer.s3.amazonaws.com/aisa.png"
+            "photo": aisalkyn
         },
         {
             "name": "Osmonov Samat",
@@ -27,41 +30,27 @@ class GradCarousel extends React.Component {
             "photo": samat
         },
         {
-            "name": "Bill Gates",
-            "profession": "full-stack, ceo",
-            "place": "Microsoft",
-            "quote": "Очень понравилось обучаться, спасибо.",
+            "name": "Emir Amanbekov",
+            "profession": "backend developer",
+            "place": "Zensoft",
+            "quote": "Cпасибо вам.",
             "photo": emir
         },
         {
-            "name": "Peekaboo",
-            "profession": "Profession",
-            "place": "google",
-            "quote": "kapeekapeekaboo",
-            "photo": "https://muenueschkoer.s3.amazonaws.com/614_v9_ba.jpg"
-        },
-        {
-            "name": "Test test",
-            "profession": "tester",
-            "place": "testla",
-            "quote": "tesingsteisntiesntiesn",
-            "photo": "https://muenueschkoer.s3.amazonaws.com/614_v9_ba.jpg"
-        },
-        {
-            "name": "test toast",
-            "profession": "toaster",
-            "place": "tasty",
-            "quote": "tasty tasty",
-            "photo": "https://muenueschkoer.s3.amazonaws.com/614_v9_ba.jpg"
-        },
+            "name": "Mamurjon Saitbaev",
+            "profession": "Backend developer",
+            "place": "Germany",
+            "quote": "Thank you, zveri)",
+            "photo": mamur
+        }
         ]
 	}
 
 	render() {
 	    const recipe = this.state.mainposts;
 	    return (
-	      <div className="graduates">
-	        <p className="title">Наши выпускники</p>
+	      <div className="graduates" id={'graduates'}>
+              <SectionTitle title='Наши выпускники'/>
 	        <div className="title-divider" />
 	        <Carousel initialIndex={1} style={{ }}>
 	          {recipe.map(one => (

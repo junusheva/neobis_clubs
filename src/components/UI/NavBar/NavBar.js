@@ -10,6 +10,7 @@ const NavBar = props => (
         <NavPoint href='NeobisInNumbers' linkTitle={'Neobis in numbers'}/>
         <NavPoint href='weTeach' linkTitle={'What we teach?'}/>
         <NavPoint href='technologies' linkTitle={'Our technologies'}/>
+        <NavPoint href='graduates' linkTitle={'Our graduates'}/>
         <NavPoint href='contacts' linkTitle={'Our contact info'}/>
     </div>
 );

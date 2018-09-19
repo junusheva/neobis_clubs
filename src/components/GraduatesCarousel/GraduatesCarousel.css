@@ -53,12 +53,6 @@ a {
   margin: 0;
 }
 
-.title-divider {
-  margin: 10px auto 100px auto;
-  width: 60px;
-  border-bottom: 2px solid #32b482;
-}
-
 .name {
   font-size: 18px;
   font-family: "Raleway", sans-serif;
