@@ -3,6 +3,8 @@ import { render } from "react-dom";
 import Carousel from "./Carousel";
 import styled from "styled-components";
 import "./GraduatesCarousel.css";
+import emir from './Emir.png';
+import samat from './samat.png';
 
 const content = Array(14).fill("BOX");
 const Box = styled.div`
@@ -22,14 +24,14 @@ class GradCarousel extends React.Component {
             "profession": "iOS developer",
             "place": "Zensoft",
             "quote": "I am grateful",
-            "photo": "https://muenueschkoer.s3.amazonaws.com/logo.png"
+            "photo": samat
         },
         {
             "name": "Bill Gates",
             "profession": "full-stack, ceo",
             "place": "Microsoft",
             "quote": "Очень понравилось обучаться, спасибо.",
-            "photo": "https://muenueschkoer.s3.amazonaws.com/614_v9_ba.jpg"
+            "photo": emir
         },
         {
             "name": "Peekaboo",
