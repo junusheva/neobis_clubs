@@ -1,0 +1,20 @@
+.registrationImage {
+    display: flex;
+    justify-content: center;
+}
+
+.registrationImage img {
+    width: 85%;
+    height: 85%;
+}
+
+.List {
+    list-style: none;
+}
+
+.Comment {
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    color: lightslategrey;
+}

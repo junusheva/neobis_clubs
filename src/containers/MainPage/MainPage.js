@@ -17,13 +17,12 @@ import './test.css';
 import SectionTitle from "../../components/UI/SectionTitle/SectionTitle";
 import SectionText from "../../components/UI/SectionText/SectionText";
 import NeobisInNumbers from "../../components/NeobisInNumbers/NeobisInNumbers";
-import Step from "../../components/StepsSection/Step/Step";
 
 import GradCarousel from "../../components/GraduatesCarousel/GraduatesCarousel";
 import StepsSection from "../../components/StepsSection/StepsSection";
-import AlumniSection from "../../components/AlumniSection/AlumniSection";
 import ContactsSection from "../../components/ContactsSection/ContactsSection";
 import SocialFooter from "../../components/SocialFooter/SocialFooter";
+import {NavLink} from "react-router-dom";
 
 class MainPage extends Component {
 
@@ -38,6 +37,14 @@ class MainPage extends Component {
                 <Ellipses/>
                 <NavBar/>
                 <Grider>
+                    <SectionTitle title={"Регистрация открыта!"}/>
+                    <SectionText textWidth={"550px"}>
+                        Че там, регаться будешь?
+                    </SectionText>
+                    <SectionText textWidth={"550px"}>
+                        <NavLink to={"/registration"} className="yesButton">ДА!</NavLink>
+                    </SectionText>
+
                     <AboutUsIntro/>
                     <DownArrow/>
                     <OurSection/>
