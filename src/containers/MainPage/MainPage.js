@@ -11,14 +11,12 @@ import OurSection from "../../components/AboutUs/OurSection/OurSection";
 import WeTeachSection from "../../components/WeTeachSection/WeTeachSection";
 import Technologies from "../../components/Technologies/Technologies";
 import DownArrow from "../../components/UI/DownArrow/DownArrow";
-import WeSection from "../../components/WeSection/WeSection";
 
 import './test.css';
 import SectionTitle from "../../components/UI/SectionTitle/SectionTitle";
 import SectionText from "../../components/UI/SectionText/SectionText";
 import NeobisInNumbers from "../../components/NeobisInNumbers/NeobisInNumbers";
 
-import GradCarousel from "../../components/GraduatesCarousel/GraduatesCarousel";
 import StepsSection from "../../components/StepsSection/StepsSection";
 import ContactsSection from "../../components/ContactsSection/ContactsSection";
 import SocialFooter from "../../components/SocialFooter/SocialFooter";
@@ -33,7 +31,7 @@ class MainPage extends Component {
 
     render() {
         return (
-            <Fragment>
+            <div className={'mainPage'}>
                 <Ellipses/>
                 <NavBar/>
                 <Grider>
@@ -42,19 +40,21 @@ class MainPage extends Component {
                         Че там, регаться будешь?
                     </SectionText>
                     <SectionText textWidth={"550px"}>
-                        <NavLink to={"/registration"} className="yesButton">ДА!</NavLink>
+                        <button className="yesButton">
+                            <NavLink to={"/registration"}>ДА!</NavLink>
+                        </button>
                     </SectionText>
 
                     <AboutUsIntro/>
                     <DownArrow/>
                     <OurSection/>
-                    <WeSection/>
+                    {/*<WeSection/>*/}
                 </Grider>
 
                 <div className="BigGreyCircleContainer">
                     <div className="BigGreyCircle" id={'educationSteps'}>
                         <SectionTitle title='Этапы обучения в Neobis'/>
-                        <SectionText textWidth='450px'>
+                        <SectionText textWidth='414px'>
                             Мы учим современным, полноценным языкам программирования, которые используются везде.
                             Студенты могут применить свои теоретические знания на практике под присмотром опытного
                             наставника.
@@ -69,11 +69,11 @@ class MainPage extends Component {
                     <WeTeachSection/>
                     <Technologies/>
                 </Grider>
-                <GradCarousel/>
+                {/*<GradCarousel/>*/}
                 <ContactsSection contacts={this.props.aboutUsSection.contacts}/>
                 <SocialFooter/>
 
-            </Fragment>
+            </div>
 
         );
     }
