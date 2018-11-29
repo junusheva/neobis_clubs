@@ -70,7 +70,6 @@ class MainPage extends Component {
                     <Technologies/>
                 </Grider>
                 <GradCarousel/>
-                {/*<AlumniSection alumnus={this.props.aboutUsSection.graduates}/>*/}
                 <ContactsSection contacts={this.props.aboutUsSection.contacts}/>
                 <SocialFooter/>
 

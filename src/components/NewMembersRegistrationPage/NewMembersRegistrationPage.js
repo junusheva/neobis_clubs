@@ -6,9 +6,8 @@ import SectionTitle from "../UI/SectionTitle/SectionTitle";
 import SectionText from "../UI/SectionText/SectionText";
 import DownArrow from "../UI/DownArrow/DownArrow";
 import SectionSubtitle from "../UI/SectionSubtitle/SectionSubtitle";
-import {NavLink} from "react-router-dom";
 
-const NewMembersRegistrationPage = props => (
+const NewMembersRegistrationPage = () => (
     <Grider>
         <div className="registrationImage">
             <img src={image} alt="Зарегайся сейчас!"/>
@@ -159,13 +158,6 @@ const NewMembersRegistrationPage = props => (
         <SectionText textWidth={'82%'}>
             Все интересующие вас вопросы отправляйте по почте <i>neobiskg@gmail.com neobiskg.hr@gmail.com</i> :) Чтобы подать заявку вам нужно заполнить регистрационную форму.
         </SectionText>
-
-
-
-
-
-
-
 
 
 
