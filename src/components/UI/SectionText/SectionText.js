@@ -3,7 +3,7 @@ import './SectionText.css';
 
 const SectionText = props => (
     <div className="SectionTextContainer">
-        <p className="SectionText"  style={{width: props.textWidth}}>{props.children}</p>
+        <p className="SectionText"  style={{width: props.textWidth, textAlign: props.textAlign ? props.textAlign : 'center'}}>{props.children}</p>
     </div>
 );
 
