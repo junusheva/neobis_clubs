@@ -7,7 +7,7 @@ import SectionText from "../UI/SectionText/SectionText";
 import DownArrow from "../UI/DownArrow/DownArrow";
 import SectionSubtitle from "../UI/SectionSubtitle/SectionSubtitle";
 
-const NewMembersRegistrationPage = props => (
+const NewMembersRegistrationPage = () => (
     <Grider>
         <div className="registrationImage">
             <img src={image} alt="Зарегайся сейчас!"/>
@@ -21,7 +21,7 @@ const NewMembersRegistrationPage = props => (
             то друг мой, добро пожаловать в наикрутейший клуб программирования Neobis!
         </SectionText>
         <SectionText textWidth={'82%'} textAlign={'justify'}>
-        Neobis открывает набор и приглашает тебя (ДА! ИМЕННО ТЕБЯ!) в свое растущее сообщество программистов, цели
+            Neobis открывает набор и приглашает тебя (ДА! ИМЕННО ТЕБЯ!) в свое растущее сообщество программистов, цели
             которых подняться на олимп техно мира. Но для этого тебе придется перестать парить в облаках, работать, как
             черт, и продать душу дьяволу! Тебя будут окружать целеустремленные коллеги, будешь находиться в центре
             айтишного кипиша и станешь неотделимой частью духа Neobis.
@@ -63,35 +63,41 @@ const NewMembersRegistrationPage = props => (
                 </li>
             </ul>
         </SectionText>
-        <div className="Comment" >
+        <div className="Comment">
             <p style={{width: '82%'}}>
                 * Нужно обязательно выбрать направление для регистрации!
                 Если ты не знаешь, что выбрать советуем прогуглить, поспрашивать - самостоятельно узнать.
             </p>
         </div>
         <SectionTitle title={'Что нужно знать?'}/>
-        <SectionText textWidth={'82%'} textAlign={'justify'}>Первые 4 месяца новички самостоятельно обучаются по составленному нами учебному
+        <SectionText textWidth={'82%'} textAlign={'justify'}>Первые 4 месяца новички самостоятельно обучаются по
+            составленному нами учебному
             плану. Учебный план - это базовая теория, онлайн туториалы, мини задания, мини проекты, которые усложняются
             постепенно.</SectionText>
 
-        <SectionText textWidth={'82%'} textAlign={'justify'}>За тобой будет прикреплен ментор (может несколько), который будет помогать в
+        <SectionText textWidth={'82%'} textAlign={'justify'}>За тобой будет прикреплен ментор (может несколько), который
+            будет помогать в
             случае возникших вопросов. Важно! Это не ментор должен бегать за тобой, а ты за ним!!! Ибо это ТЕБЕ надо
             развиваться для себя, а не для кого-то.
         </SectionText>
 
-        <SectionText textWidth={'82%'} textAlign={'justify'}>ТЫ просто обязан уделять время для программирования (развития, если не
+        <SectionText textWidth={'82%'} textAlign={'justify'}>ТЫ просто обязан уделять время для программирования
+            (развития, если не
             программист) каждый день! Работать, учиться и даже отчитываться будешь каждый день!</SectionText>
-        <SectionText textWidth={'82%'} textAlign={'justify'}>За пропущенные отчеты, во время не сданные задания и за не старательность мы вас
+        <SectionText textWidth={'82%'} textAlign={'justify'}>За пропущенные отчеты, во время не сданные задания и за не
+            старательность мы вас
             кикаем (убираем) с клуба!
         </SectionText>
 
-        <SectionText textWidth={'82%'} textAlign={'justify'}>Необис - это не курсы, где тебе кто-то что-то обязан!!! Необис - это клуб
+        <SectionText textWidth={'82%'} textAlign={'justify'}>Необис - это не курсы, где тебе кто-то что-то обязан!!!
+            Необис - это клуб
             программирования, где мы предоставляем тебе уникальную возможность обучиться коммерческой разработке,
             работать над реальными проектами, иметь ментора и быть ментором, выращивать свой опыт, работать в команде с
             лучшими в будущем программистами. И ты сам должен хвататься за эти возможности и работать усердно! Еще раз,
             никто ничего тебе не должен!</SectionText>
 
-        <SectionText textWidth={'82%'} textAlign={'justify'}>После 4-5 месяцев обучения по плану, мы уже можем пробовать сажать тебя на
+        <SectionText textWidth={'82%'} textAlign={'justify'}>После 4-5 месяцев обучения по плану, мы уже можем пробовать
+            сажать тебя на
             небольшой командный проект. Проект (свой, внутренний, социальный) будет реализовываться командой студентов с
             разных направлений.
         </SectionText>
@@ -111,14 +117,16 @@ const NewMembersRegistrationPage = props => (
             вот при выпуске универа, у тебя уже будет 2 года опыта работы.
         </SectionText>
 
-        <SectionText textWidth={'82%'} textAlign={'justify'}>На этом все! При твоем выпуске Neobis официально награждает тебя крутым
+        <SectionText textWidth={'82%'} textAlign={'justify'}>На этом все! При твоем выпуске Neobis официально награждает
+            тебя крутым
             сертификатом, рекомендательным письмом на русском или английском, резюме, и помогает с трудоустройством в
             локальную или зарубежную IT компанию, уже как готового специалиста (в идеале, как мидла).
         </SectionText>
 
 
         <SectionTitle title={'Возможности наших членов'}/>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}>Neobis - бесспорно крутая организация! Мы развиваем сферу IT и образования,
+        <SectionText textWidth={'82%'} textAlign={'justify'}>Neobis - бесспорно крутая организация! Мы развиваем сферу
+            IT и образования,
             подтягивая студентов, устраивая митапы и реализовывая крутые проекты! Но, в первую очередь, мы работаем над
             тем, чтобы у наших студентов были крутые возможности, которые помогут им подняться высоко и изменить жизни в
             лучшую сторону. </SectionText>
@@ -167,30 +175,31 @@ const NewMembersRegistrationPage = props => (
         </SectionText>
 
         <SectionSubtitle title={'Членский взнос'}/>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}>
+        <SectionText textWidth={'82%'} textAlign={'justify'}>
             Объявляем всем новость, что с этого набора мы берем членский взнос в клуб программирования Neobis. Да, мы
             всегда позиционировали себя клубом, который предоставляет бесплатное обучение, менторство и возможности, но
             мы столкнулись с большой безответственностью со стороны студентов, которые после 1-2 месяцев обучения сами
             уходили при первой сложности. Это плохо, что когда бесплатно, студенты не ценят наш труд и старание помочь
             им же развиваться. Теперь же мы хотим видеть только тех, которые заплатив, готовы идти до конца!
         </SectionText>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}>
+        <SectionText textWidth={'82%'} textAlign={'justify'}>
             Годовой членский взнос для студентов ВУЗа КР - 7000 сом
         </SectionText>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}>
+        <SectionText textWidth={'82%'} textAlign={'justify'}>
             Годовой членский взнос для не студентов - 21000 сом. (максимум 1-2 человека)
         </SectionText>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}>Эти взносы уходят в фонд клуба, который финансирует учебные материалы, подписки,
+        <SectionText textWidth={'82%'} textAlign={'justify'}>Эти взносы уходят в фонд клуба, который финансирует учебные
+            материалы, подписки,
             тимбилдинги, футболочки, печеньку и на другие ништяки для членов клуба. Хотим информировать, что Neobis -
             некоммерческая организация, была создана студентами для студентов на голом энтузиазме и существует на
             самофинансировании.
         </SectionText>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}>
+        <SectionText textWidth={'82%'} textAlign={'justify'}>
             ВНИМАНИЕ! Как уже было написано выше, мы исключаем участников, которые не пишут
             отчеты, не справляются с заданиями, не мотивированы развиваться, заваливают сроки проектов. При исключении
             ВЗНОС НЕ ВОЗВРАЩАЕТСЯ! Поэтому 7 раз подумайте перед тем, как подать.
         </SectionText>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}  textAlign={'justify'}>
+        <SectionText textWidth={'82%'} textAlign={'justify'}>
             Чтобы доказать, что вы студент, на интервью нужно принести справку или учебную книжку с университета и
             паспорт.
         </SectionText>
@@ -219,32 +228,34 @@ const NewMembersRegistrationPage = props => (
         </SectionText>
 
         <SectionTitle title={'Детали по набору'}/>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}>
+        <SectionText textWidth={'82%'} textAlign={'justify'}>
             Набор будет длиться <i>с 29 Ноября по 15 Декабря</i> включительно.
         </SectionText>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}>
+        <SectionText textWidth={'82%'} textAlign={'justify'}>
             <b> Регистрация и заполнение анкеты. </b>Результаты и подробную информацию о следующем этапе набора,
             интервью, отправим 16 Декабря, 2018 года. Поэтому внимательно впишите почту в форме регистрации.
         </SectionText>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}>
+        <SectionText textWidth={'82%'} textAlign={'justify'}>
             <b>Интервью.</b> Примерная дата интервьюирования 22-23 Декабря, 2018 года. Результаты о пройденных
             участниках и инструкцию по оплате мы отправим 23-24 декабря.
         </SectionText>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}>
+        <SectionText textWidth={'82%'} textAlign={'justify'}>
             С 24 по 28 Декабря 2018 года - период сбора членского взноса.
         </SectionText>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}>
+        <SectionText textWidth={'82%'} textAlign={'justify'}>
             3 или 4 января - ориентационный день, после которого начинается твоя жизнь в Необисе. :)
         </SectionText>
-        <SectionText textWidth={'82%'}  textAlign={'justify'}>
+        <SectionText textWidth={'82%'} textAlign={'justify'}>
             Все интересующие вас вопросы отправляйте по почте <i>neobiskg@gmail.com neobiskg.hr@gmail.com</i>
         </SectionText>
 
         <SectionText textWidth={'82%'}>
-            <button className="yesButton">
-                <a href={"https://docs.google.com/forms/d/e/1FAIpQLSf53gpmNya9JkdsGhzPF5ZxRBomufHb2W9qNWLy1ipNDjZ8mQ/viewform"}>Подать
-                    заявку!</a>
-            </button>
+            <a href={"https://docs.google.com/forms/d/e/1FAIpQLSf53gpmNya9JkdsGhzPF5ZxRBomufHb2W9qNWLy1ipNDjZ8mQ/viewform"}  className="yesButton">
+                <button>
+                    Подать
+                    заявку!
+                </button>
+            </a>
         </SectionText>
 
 

@@ -1,4 +1,4 @@
-import React, {Component, Fragment} from 'react';
+import React, {Component} from 'react';
 import {connect} from "react-redux";
 
 import {fetchSiteInfo} from "../../store/actions/siteInfo";
@@ -40,9 +40,11 @@ class MainPage extends Component {
                         Че там, регаться будешь?
                     </SectionText>
                     <SectionText textWidth={"550px"}>
-                        <button className="yesButton">
-                            <NavLink to={"/registration"}>ДА!</NavLink>
-                        </button>
+                        <NavLink to={"/registration"} className="yesButton">
+                            <button>
+                                ДА!
+                            </button>
+                        </NavLink>
                     </SectionText>
 
                     <AboutUsIntro/>
