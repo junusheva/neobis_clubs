@@ -17,7 +17,6 @@ import SectionTitle from "../../components/UI/SectionTitle/SectionTitle";
 import SectionText from "../../components/UI/SectionText/SectionText";
 import NeobisInNumbers from "../../components/NeobisInNumbers/NeobisInNumbers";
 
-import StepsSection from "../../components/StepsSection/StepsSection";
 import ContactsSection from "../../components/ContactsSection/ContactsSection";
 import SocialFooter from "../../components/SocialFooter/SocialFooter";
 import {NavLink} from "react-router-dom";
@@ -55,14 +54,14 @@ class MainPage extends Component {
 
                 <div className="BigGreyCircleContainer">
                     <div className="BigGreyCircle" id={'educationSteps'}>
-                        <SectionTitle title='Этапы обучения в Neobis'/>
-                        <SectionText textWidth='414px'>
-                            Мы учим современным, полноценным языкам программирования, которые используются везде.
-                            Студенты могут применить свои теоретические знания на практике под присмотром опытного
-                            наставника.
-                        </SectionText>
-                        <DownArrow/>
-                        <StepsSection/>
+                        {/*<SectionTitle title='Этапы обучения в Neobis'/>*/}
+                        {/*<SectionText textWidth='414px'>*/}
+                            {/*Мы учим современным, полноценным языкам программирования, которые используются везде.*/}
+                            {/*Студенты могут применить свои теоретические знания на практике под присмотром опытного*/}
+                            {/*наставника.*/}
+                        {/*</SectionText>*/}
+                        {/*<DownArrow/>*/}
+                        {/*<StepsSection/>*/}
                         <NeobisInNumbers numbers={this.props.aboutUsSection.stats}/>
                     </div>
                 </div>
