@@ -1,1 +1,0 @@
-export const ABOUT_US_SUCCESS = 'ABOUT_US_SUCCESS';
